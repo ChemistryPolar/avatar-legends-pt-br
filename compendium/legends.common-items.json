@@ -1,0 +1,130 @@
+{
+	"label": "Itens Comuns",
+	"folders": {
+        "1 - Defend & Maneuver": "1 - Defender e Manobrar",
+        "2 - Advance & Attack": "2 - Avançar e Atacar",
+        "3 - Evade & Observe": "3 - Evadir e Observar"
+	},
+	"entries": {
+		"1- Learn Something?": {
+			"name": "1- Aprendeu Algo?"
+		},
+		"2 - Stop a Threat?": {
+			"name": "2 - Impediu uma Ameaça?"
+		},
+		"3 - Guide a Companion?": {
+			"name": "3 - Guiou um Camarada?"
+		},
+		"Afraid": {
+			"name": "Amedrontado"
+		},
+		"Angry": {
+			"name": "Enraivecido"
+		},
+		"Assess a Situation": {
+			"name": "Avaliar uma Situação"
+		},
+		"Bolster or Hinder": {
+			"name": "Reforçar ou Debilitar"
+		},
+		"Call Someone Out": {
+			"name": "Criticar Alguém"
+		},
+		"Commit": {
+			"name": "Dedicar"
+		},
+		"Deny a Callout": {
+			"name": "Negar uma Crítica"
+		},
+		"Doomed": {
+			"name": "Enrascado"
+		},
+		"Empowered": {
+			"name": "Empoderado"
+		},
+		"Favored": {
+			"name": "Favorecido"
+		},
+		"Guide and Comfort": {
+			"name": "Guiar e Confortar"
+		},
+		"Guilty": {
+			"name": "Culpado"
+		},
+		"Help": {
+			"name": "Ajudar"
+		},
+		"Impaired": {
+			"name": "Atrapalhado"
+		},
+		"Insecure": {
+			"name": "Inseguro"
+		},
+		"Inspired": {
+			"name": "Inspirado"
+		},
+		"Intimidate": {
+			"name": "Intimidar"
+		},
+		"Live Up to your Principle": {
+			"name": "Assumir seus Princípios"
+		},
+		"Lose Your Balance": {
+			"name": "Perder seu Equilíbrio"
+		},
+		"Plead": {
+			"name": "Pedir"
+		},
+		"Prepared": {
+			"name": "Preparado"
+		},
+		"Pressure": {
+			"name": "Pressionar"
+		},
+		"Push Your Luck": {
+			"name": "Tentar sua Sorte"
+		},
+		"Ready": {
+			"name": "Preparar"
+		},
+		"Rely on Your Skills & Training": {
+			"name": "Confiar nas suas Habilidades e Treinamento"
+		},
+		"Resist Shifting Your Balance": {
+			"name": "Resistir uma Mudança de Equilíbrio"
+		},
+		"Retaliate": {
+			"name": "Retaliar"
+		},
+		"Seize a Position": {
+			"name": "Tomar uma Posição"
+		},
+		"Smash": {
+			"name": "Esmagar"
+		},
+		"Stance Move": {
+			"name": "Movimento de Postura"
+		},
+		"Strike": {
+			"name": "Golpear"
+		},
+		"Stunned": {
+			"name": "Zonzo"
+		},
+		"Test Balance": {
+			"name": "Testar o Equilíbrio"
+		},
+		"Training Move": {
+			"name": "Movimento de Treinamento"
+		},
+		"Trapped": {
+			"name": "Imobilizado"
+		},
+		"Trick": {
+			"name": "Enganar"
+		},
+		"Troubled": {
+			"name": "Perturbado"
+		}
+	}
+}

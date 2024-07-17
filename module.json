@@ -1,0 +1,39 @@
+{
+  "id":"avatar-legends-pt-br",
+  "title":"Tradução PT-BR Avatar Legends (Unofficial)",
+  "description":"Uma tradução de todos os compendiums do sistema Avatar Legends (Unofficial)",
+  
+  "version":"1.0.0",
+  
+  "authors":[
+    {
+      "name":"ChemistryPolar",
+      "url":"https://x.com/ChemistryPolar"
+    }
+  ],
+  
+  "compatibility":{
+    "minimum":"12",
+    "verified":"12"
+  },
+
+  "esmodules": ["babele-register.js"],
+
+  "dependencies":[
+    {
+       "name":"babele",
+       "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+    }
+ ],
+
+ "systems":[
+  {
+    "id":"legends"
+  }
+],
+  
+  "url":"",
+  "manifest":"",
+  "download":""
+  
+}

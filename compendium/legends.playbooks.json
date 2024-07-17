@@ -1,0 +1,305 @@
+{
+	"label": "Manuais",
+	"entries": {
+		"A Life of Regret": {
+			"name": "Vida de Arrependimento"
+		},
+		"A Tainted Past": {
+			"name": "Uma Mancha na História"
+		},
+		"A Warrior's Heart": {
+			"name": "Alma de Guerreiro"
+		},
+		"Adamant GQ": {
+			"name": "Inflexíel PdC"
+		},
+		"Adamant MoB": {
+			"name": "Inflexíel MdE"
+		},
+		"An Open Mind": {
+			"name": "Mente Aberta"
+		},
+		"Bad Habits": {
+			"name": "Maus Hábitos"
+		},
+		"Badge of Authority": {
+			"name": "Insígnia de Autoridade"
+		},
+		"Best Friend": {
+			"name": "Melhor Amigo"
+		},
+		"Black Koala-Sheep": {
+			"name": "Coala-Ovelha Negra"
+		},
+		"Bold GQ": {
+			"name": "Audaz PdC"
+		},
+		"Bold MoB": {
+			"name": "Audaz MdE"
+		},
+		"Bonzu Pippinpaddleopsicopolis… the Third": {
+			"name": "Bonzu Pippinpaddleopsicopolis… Terceiro"
+		},
+		"Break": {
+			"name": "Quebrar"
+		},
+		"Bringing Them Down": {
+			"name": "Mandar a Nocaute"
+		},
+		"Burden & Tradition": {
+			"name": "O Fardo da Tradição"
+		},
+		"Can't Knock Me Down": {
+			"name": "Não Pode Me Derrubar"
+		},
+		"Casing the Joint": {
+			"name": "Sondar as Redondezas"
+		},
+		"Catch a Liar": {
+			"name": "Desmascarar um Mentiroso"
+		},
+		"Challenge": {
+			"name": "Desafiar"
+		},
+		"Comprehend Your Foe": {
+			"name": "Estudar o Inimigo"
+		},
+		"Concentration": {
+			"name": "Concentração"
+		},
+		"Disorient": {
+			"name": "Desorientar"
+		},
+		"Divert": {
+			"name": "Interpor"
+		},
+		"Driven By Justice": {
+			"name": "Movido por Justiça"
+		},
+		"Extraordinary Skill": {
+			"name": "Habilidade Extraordinária"
+		},
+		"Fighting Like Dancing": {
+			"name": "Lutar é Como Dançar"
+		},
+		"Fueled By Anger": {
+			"name": "Na Força do Ódio"
+		},
+		"Furrowed Brow": {
+			"name": "Franzir a Testa"
+		},
+		"Guardian GQ": {
+			"name": "Guardião PdC"
+		},
+		"Guardian MoB": {
+			"name": "Guardião MdE"
+		},
+		"Hammer GQ": {
+			"name": "Martelo PdC"
+		},
+		"Hammer MoB": {
+			"name": "Martelo MdE"
+		},
+		"Here's the Plan": {
+			"name": "Esse é o Plano"
+		},
+		"I Don't Hate You": {
+			"name": "Eu Não te Odeio"
+		},
+		"Icon GQ": {
+			"name": "Ícone PdC"
+		},
+		"Icon MoB": {
+			"name": "Ícone MdE"
+		},
+		"Idealist GQ": {
+			"name": "Idealista PdC"
+		},
+		"Idealist MoB": {
+			"name": "Idealista MdE"
+		},
+		"Is That the Best You Got?": {
+			"name": "É o Melhor Que Você Consegue?"
+		},
+		"It Doesn't Belong to You!": {
+			"name": "Isso Não é Seu!"
+		},
+		"Judging a Rival": {
+			"name": "Julgando um Rival"
+		},
+		"Legacy of Excellence": {
+			"name": "Legado de Excelência"
+		},
+		"Martyr Complex": {
+			"name": "Complexo de Mártyr"
+		},
+		"Never Turn My Back": {
+			"name": "Nunca Dar As Costas"
+		},
+		"No Time For Feelings": {
+			"name": "Sem Tempo Para Sentimentos"
+		},
+		"Not Done Yet!": {
+			"name": "Ainda Não Acabou!"
+		},
+		"Otter-Penguins, Unagi, and Hot Springs": {
+			"name": "Pinguins-Lontra, Enguais e Fontes Termais"
+		},
+		"Out of Uniform": {
+			"name": "À Paisana"
+		},
+		"Overwhelm": {
+			"name": "Sobrepujar"
+		},
+		"Pillar GQ": {
+			"name": "Pilar PdC"
+		},
+		"Pillar MoB": {
+			"name": "Pilar MdE"
+		},
+		"Pinpoint Aim": {
+			"name": "Mira Precisa"
+		},
+		"Prodigy GQ": {
+			"name": "Prodígio PdC"
+		},
+		"Prodigy MoB": {
+			"name": "Prodígio MdE"
+		},
+		"Protector's Burden": {
+			"name": "Fardo do Protetor"
+		},
+		"Punch Where It Matters": {
+			"name": "Bater Onde Dói"
+		},
+		"Rogue GQ": {
+			"name": "Subversivo PdC"
+		},
+		"Rogue MoB": {
+			"name": "Subversivo MdE"
+		},
+		"Roguish Charm": {
+			"name": "Borogodó"
+		},
+		"Slide Around the Blow": {
+			"name": "Dançar Ao Redor dos Golpes"
+		},
+		"Slippery Eel-Hound": {
+			"name": "Peixe-Cão Ensobado"
+		},
+		"Squad Leader": {
+			"name": "Líder de Esquadrão"
+		},
+		"Stand and Fight!": {
+			"name": "Vem pra Porrada!"
+		},
+		"Steady Stance": {
+			"name": "Postura Firme"
+		},
+		"Straight Shooter": {
+			"name": "Fala na Cara"
+		},
+		"Successor GQ": {
+			"name": "Herdeiro PdC"
+		},
+		"Successor MoB": {
+			"name": "Herdeiro MdE"
+		},
+		"Surprising Entrance": {
+			"name": "Aparição Surpresa"
+		},
+		"Suspicious Mind": {
+			"name": "Mente Desconfiada"
+		},
+		"Sweep the Leg": {
+			"name": "Passar a Perna"
+		},
+		"Tag Team": {
+			"name": "Vamos Juntos"
+		},
+		"Takes One to Know One": {
+			"name": "Os Iguais se Reconhecem"
+		},
+		"Taking Care of Business": {
+			"name": "Deixem Comigo, Eu Dou Conta"
+		},
+		"The Adamant": {
+			"name": "O Inflexíel"
+		},
+		"The Bold": {
+			"name": "O Audaz"
+		},
+		"The Guardian": {
+			"name": "O Guardião"
+		},
+		"The Hammer": {
+			"name": "O Martelo"
+		},
+		"The Icon": {
+			"name": "O Ícone"
+		},
+		"The Idealist": {
+			"name": "O Idealista"
+		},
+		"The Lodestar": {
+			"name": "O Norte"
+		},
+		"The Pillar": {
+			"name": "O Pilar"
+		},
+		"The Prodigy": {
+			"name": "O Prodígio"
+		},
+		"The Rogue": {
+			"name": "O Subversivo"
+		},
+		"The Strength of Your Heart": {
+			"name": "Coração Valente"
+		},
+		"The Successor": {
+			"name": "O Herdeiro"
+		},
+		"This Was a Victory": {
+			"name": "Isso Foi uma Vitória"
+		},
+		"Understanding Mien": {
+			"name": "Semblante Compreensivo"
+		},
+		"Use Their Momentum": {
+			"name": "Vai no Embalo"
+		},
+		"Wait and Listen": {
+			"name": "Esperar e Ouvir"
+		},
+		"Walk This Way": {
+			"name": "Vem Por Aqui"
+		},
+		"Wall of Perfection": {
+			"name": "Muralha Perfeita"
+		},
+		"Walls Can't Hold Me": {
+			"name": "Ninguém me Segura"
+		},
+		"Way of the Future": {
+			"name": "Boas-Vindas Ao Futuro"
+		},
+		"Whatever I Can": {
+			"name": "Tudo Que Eu Puder"
+		},
+		"Worldly Knowledge": {
+			"name": "Conhecimento Mundial"
+		},
+		"Yip Yip!": {
+			"name": "Yip Yip!"
+		},
+		"You Missed Something": {
+			"name": "Você Esqueceu de Algo"
+		},
+		"You're Not My Master!": {
+			"name": "Você Não Manda Em Mim!"
+		},
+		"Your Rules Stink": {
+			"name": "Suas Regras São Baboseira"
+		}
+	}
+}

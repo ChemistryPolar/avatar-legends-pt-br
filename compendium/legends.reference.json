@@ -1,0 +1,17 @@
+{
+	"label": "Apoio",
+	"entries": {
+		"GM Reference": {
+			"name": "Apoio Para MJ"
+		},
+		"Playbooks": {
+			"name": "Manuais"
+		},
+		"Player Reference": {
+			"name": "Apoio para Jogadores"
+		},
+		"WSTAG Playbooks": {
+			"name": "Manuais WSTAG"
+		}
+	}
+}
