@@ -32,8 +32,8 @@
   }
 ],
   
-  "url":"",
-  "manifest":"",
-  "download":""
+  "url":"https://github.com/ChemistryPolar/avatar-legends-pt-br",
+  "manifest":"https://raw.githubusercontent.com/ChemistryPolar/avatar-legends-pt-br/main/module.json",
+  "download":"https://github.com/ChemistryPolar/avatar-legends-pt-br/archive/refs/heads/main.zip"
   
 }
