@@ -1,22 +1,39 @@
 {
 	"label": "Itens Comuns",
+	"mapping": {
+		"description": "system.description",
+		"0": "system.affectedMoves.0",
+		"1": "system.affectedMoves.1"
+	},
 	"folders": {
         "1 - Defend & Maneuver": "1 - Defender e Manobrar",
         "2 - Advance & Attack": "2 - Avançar e Atacar",
-        "3 - Evade & Observe": "3 - Evadir e Observar"
+        "3 - Evade & Observe": "3 - Evadir e Observar",
+		"Balance Moves": "Movimentos de Equilíbrio",
+		"Basic Moves": "Movimentos Básicos",
+        "Combat Techniques": "Movimentos de Avanço",
+		"Conditions": "Condições",
+		"Growth Questions": "Perguntas de Crescimento",
+		"Statuses": "Status"
 	},
 	"entries": {
 		"1- Learn Something?": {
-			"name": "1- Aprendeu Algo?"
+			"name": "1- Aprendeu Algo?",
+			"description": "Você aprendeu algo empolgante, desafiador ou complicado sobre o mundo?"
 		},
 		"2 - Stop a Threat?": {
-			"name": "2 - Impediu uma Ameaça?"
+			"name": "2 - Impediu uma Ameaça?",
+			"description": "Você impediu uma grande ameaça ou resolveu um problema da comunidade?"
 		},
 		"3 - Guide a Companion?": {
-			"name": "3 - Guiou um Camarada?"
+			"name": "3 - Guiou um Camarada?",
+			"description": "Você ajudou a guiar um camarada para o equilíbrio ou terminou a sessão em seu centro de equilíbrio?"
 		},
 		"Afraid": {
-			"name": "Amedrontado"
+			"name": "Amedrontado",
+			"description": "<p>-2 para <strong>intimidar</strong> e <strong>criticar alguém</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
+			"0": "Intimidar",
+			"1": "Criticar Alguém"
 		},
 		"Angry": {
 			"name": "Enraivecido"

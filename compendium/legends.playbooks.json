@@ -1,5 +1,17 @@
 {
 	"label": "Manuais",
+	"folders" : {
+		"The Adamant": "O Inflexíel",
+		"The Bold": "O Audaz",
+		"The Guardian": "O Guardião",
+		"The Hammer": "O Martelo",
+		"The Icon": "O Ícone",
+		"The Idealist": "O Idealista",
+		"The Pillar": "O Pilar",
+		"The Prodigy": "O Prodígio",
+		"The Rogue": "O Subversivo",
+		"The Successor": "O Herdeiro"
+	},
 	"entries": {
 		"A Life of Regret": {
 			"name": "Vida de Arrependimento"

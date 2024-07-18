@@ -1,5 +1,11 @@
 {
 	"label": "Manuais WST",
+	"folders": {
+		"The Destined": "O Escolhido",
+		"The Elder": "O Ancião",
+		"The Foundling": "O Desgarrado",
+		"The Razor": "A Navalha"
+	},
 	"entries": {
 		"Air-Cutting Edge": {
 			"name": "Instintos Afiados"
