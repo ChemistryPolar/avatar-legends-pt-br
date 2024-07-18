@@ -34,6 +34,12 @@
   
   "url":"https://github.com/ChemistryPolar/avatar-legends-pt-br",
   "manifest":"https://raw.githubusercontent.com/ChemistryPolar/avatar-legends-pt-br/main/module.json",
-  "download":"https://github.com/ChemistryPolar/avatar-legends-pt-br/archive/refs/heads/main.zip"
-  
+  "download":"https://github.com/ChemistryPolar/avatar-legends-pt-br/archive/refs/heads/main.zip",
+  "languages":[{
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "pt-BR.json"
+  }
+  ],
 }
+
