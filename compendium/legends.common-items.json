@@ -31,12 +31,15 @@
 		},
 		"Afraid": {
 			"name": "Amedrontado",
-			"description": "<p>-2 para <strong>intimidar</strong> e <strong>criticar alguém</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
+			"description": "<p>Tome-2 para <strong>intimidar</strong> e <strong>criticar alguém</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
 			"0": "Intimidar",
 			"1": "Criticar Alguém"
 		},
 		"Angry": {
-			"name": "Enraivecido"
+			"name": "Enraivecido",
+			"description": "<p>Tome-2 para <strong>Guiar e Confortar</strong> e <strong>Avaliar uma Situação</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
+			"0": "Guiar e Confortar",
+			"1": "Avaliar uma Situação"
 		},
 		"Assess a Situation": {
 			"name": "Avaliar uma Situação"
@@ -66,7 +69,10 @@
 			"name": "Guiar e Confortar"
 		},
 		"Guilty": {
-			"name": "Culpado"
+			"name": "Culpado",
+			"description": "<p>Tome-2 para <strong>Tentar a Sorte</strong> e +2 para<strong>Negar uma Crítica</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
+			"0": "Tentar a Sorte",
+			"1": "Negar uma Crítica"
 		},
 		"Help": {
 			"name": "Ajudar"
@@ -75,7 +81,10 @@
 			"name": "Atrapalhado"
 		},
 		"Insecure": {
-			"name": "Inseguro"
+			"name": "Inseguro",
+			"description": "<p>Tome-2 para <strong>Enganar</strong> e <strong>Resistir à Mudança de Equilíbrio</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
+			"0": "Enganar",
+			"1": "Resistir à Mudança de Equilíbrio"
 		},
 		"Inspired": {
 			"name": "Inspirado"
@@ -141,7 +150,10 @@
 			"name": "Enganar"
 		},
 		"Troubled": {
-			"name": "Perturbado"
+			"name": "Perturbado",
+			"description": "<p>Tome-2 para <strong>Pedir</strong> e <strong>Confiar Em Suas Habilidades</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
+			"0": "Pedir",
+			"1": "Confiar Em Suas Habilidades"
 		}
 	}
 }
