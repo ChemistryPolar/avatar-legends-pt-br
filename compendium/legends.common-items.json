@@ -2,8 +2,8 @@
 	"label": "Itens Comuns",
 	"mapping": {
 		"description": "system.description",
-		"0": "system.affectedMoves.0",
-		"1": "system.affectedMoves.1"
+		"0": "system.affectedMoves.0.name",
+		"1": "system.affectedMoves.1.name"
 	},
 	"folders": {
         "1 - Defend & Maneuver": "1 - Defender e Manobrar",
