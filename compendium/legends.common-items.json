@@ -37,7 +37,7 @@
 		},
 		"Angry": {
 			"name": "Enraivecido",
-			"description": "<p>Tome -2 para <strong>Guiar e Confortar</strong> e <strong>Avaliar uma Situação</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
+			"description": "<p>Tome -2 para <strong>Guiar e Confortar</strong> e <strong>Avaliar uma Situação</strong>.</p>\n<p><strong>Para remover:</strong> Quebre algo importante ou ataque um amigo.</p>",
 			"0": "Guiar e Confortar",
 			"1": "Avaliar uma Situação"
 		},
@@ -74,7 +74,7 @@
 		},
 		"Guilty": {
 			"name": "Culpado",
-			"description": "<p>Tome -2 para <strong>Tentar a Sorte</strong> e +2 para<strong> Negar uma Crítica</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
+			"description": "<p>Tome -2 para <strong>Tentar a Sorte</strong> e +2 para<strong> Negar uma Crítica</strong>.</p>\n<p><strong>Para remover:</strong> Faça um sacrifício pessoal para absolver sua culpa.</p>",
 			"0": "Tentar a Sorte",
 			"1": "Negar uma Crítica"
 		},
@@ -87,7 +87,7 @@
 		},
 		"Insecure": {
 			"name": "Inseguro",
-			"description": "<p>Tome -2 para <strong>Enganar</strong> e <strong>Resistir à Mudança de Equilíbrio</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
+			"description": "<p>Tome -2 para <strong>Enganar</strong> e <strong>Resistir à Mudança de Equilíbrio</strong>.</p>\n<p><strong>Para remover:</strong> Tome atitudes temerárias sem falar com seus companheiros.</p>",
 			"0": "Enganar",
 			"1": "Resistir à Mudança de Equilíbrio"
 		},
@@ -164,7 +164,7 @@
 		},
 		"Troubled": {
 			"name": "Perturbado",
-			"description": "<p>Tome -2 para <strong>Pedir</strong> e <strong>Confiar Em Suas Habilidades</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
+			"description": "<p>Tome -2 para <strong>Pedir</strong> e <strong>Confiar Em Suas Habilidades</strong>.</p>\n<p><strong>Para remover:</strong> Busque orientação de um mentor ou figura poderosa.</p>",
 			"0": "Pedir",
 			"1": "Confiar Em Suas Habilidades"
 		}
