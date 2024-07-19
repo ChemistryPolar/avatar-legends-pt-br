@@ -1,5 +1,10 @@
 {
 	"label": "Manuais",
+	"mapping": {
+		"description": "system.description",
+		"topTrack": "system.balance.topTrack",
+		"bottomTrack": "system.balance.bottomTrack"
+	},
 	"folders" : {
 		"The Adamant": "O Inflexíel",
 		"The Bold": "O Audaz",
@@ -23,13 +28,16 @@
 			"name": "Alma de Guerreiro"
 		},
 		"Adamant GQ": {
-			"name": "Inflexíel PdC"
+			"name": "Inflexíel PdC",
+			"description": "Você procurou apoio ou orientação dos outros?"
 		},
 		"Adamant MoB": {
-			"name": "Inflexíel MdE"
+			"name": "Inflexíel MdE",
+			"description": "Você se manteve fiel ao cerne das suas convicções, mesmo quando teve de sujar as mãos para fazer o que achou necessário. Mas o equilíbrio significa entender que as outras pessoas são tão complexas quanto você, não apenas obstáculos ou peças num tabuleiro. Diga ao MJ como você resolve um problema complexo ou desarma um terrível conflito ao empatizar com pessoas perigosas de uma forma humana."
 		},
 		"An Open Mind": {
-			"name": "Mente Aberta"
+			"name": "Mente Aberta",
+			"description": "Você pode aprender técnicas de outras habilidades e treinamentos, contanto que tenha um professor. Você pode aprender até três dessas técnicas no total. Você ganha +1 no movimento de treinamento para aprender essas técnicas."
 		},
 		"Bad Habits": {
 			"name": "Maus Hábitos"
@@ -44,16 +52,19 @@
 			"name": "Coala-Ovelha Negra"
 		},
 		"Bold GQ": {
-			"name": "Audaz PdC"
+			"name": "Audaz PdC",
+			"description": "Você expressou vulnerabilidade ao admitir que estava errado ou que deveria ter ouvido alguém que ignorou?"
 		},
 		"Bold MoB": {
-			"name": "Audaz MdE"
+			"name": "Audaz MdE",
+			"description": "Os maiores heróis da sua era podem ter confiança aos montes, mas o equilíbrio não está em perseguir a grandeza apenas em nome da grandeza. Você encontra uma forma de estar junto de seus companheiros como ninguém mais poderia. Diga ao MJ como você derruba um inimigo ou obstáculo para proteger seus amigos de uma ameaça enquanto se mostra como a melhor versão de você."
 		},
 		"Bonzu Pippinpaddleopsicopolis… the Third": {
 			"name": "Bonzu Pippinpaddleopsicopolis… Terceiro"
 		},
 		"Break": {
-			"name": "Quebrar"
+			"name": "Quebrar",
+			"description": "Mire o equipamento vulnerável de um oponente; quebre ou inutilize ele, o que pode infligir ou anular um status apropriado."
 		},
 		"Bringing Them Down": {
 			"name": "Mandar a Nocaute"
@@ -80,10 +91,12 @@
 			"name": "Concentração"
 		},
 		"Disorient": {
-			"name": "Desorientar"
+			"name": "Desorientar",
+			"description": "Castigue um oponente engajado com golpes rápidos; marque 1-fadiga para mover o equilíbrio dele para longe do centro."
 		},
 		"Divert": {
-			"name": "Interpor"
+			"name": "Interpor",
+			"description": "Entre no caminho de golpes que atingiriam seus aliados; quando qualquer aliado for ser atingido nessa troca, você pode receber o ataque por ele. Se você usar Retaliar nessa troca, cause 1-fadiga adicional a cada uso."
 		},
 		"Driven By Justice": {
 			"name": "Movido por Justiça"
@@ -101,16 +114,20 @@
 			"name": "Franzir a Testa"
 		},
 		"Guardian GQ": {
-			"name": "Guardião PdC"
+			"name": "Guardião PdC",
+			"description": "Você perseguiu um desejo ou meta sua, além de proteger outras pessoas?"
 		},
 		"Guardian MoB": {
-			"name": "Guardião MdE"
+			"name": "Guardião MdE",
+			"description": "Você jurou proteger as pessoas com as quais se importa, mas o equilíbrio está em também encontrar seu próprio lugar no mundo. Você sabe o que é capaz de realizar, e você se posiciona para mostrar ao mundo sua força única. Diga ao MJ como você arrisca sua vida para derrotar um vilão ou um perigo que parece insuperável."
 		},
 		"Hammer GQ": {
-			"name": "Martelo PdC"
+			"name": "Martelo PdC",
+			"description": "Você progrediu na sua meta contra seu adversário?"
 		},
 		"Hammer MoB": {
-			"name": "Martelo MdE"
+			"name": "Martelo MdE",
+			"description": "Você pode derrubar todas as paredes do mundo, mas o equilíbrio não é encontrado na conquista e destruição. Você sabe que algumas paredes têm de ficar de pé para manter as pessoas seguras. Diga ao MJ como você se coloca no caminho de uma ameaça inescapável para proteger algo ou alguém do perigo."
 		},
 		"Here's the Plan": {
 			"name": "Esse é o Plano"
@@ -119,16 +136,20 @@
 			"name": "Eu Não te Odeio"
 		},
 		"Icon GQ": {
-			"name": "Ícone PdC"
+			"name": "Ícone PdC",
+			"description": "Você realizou um feito digno de seu fardo e tradição?"
 		},
 		"Icon MoB": {
-			"name": "Ícone MdE"
+			"name": "Ícone MdE",
+			"description": "Outros desbravaram uma estrada da qual você não consegue escapar, mas o equilíbrio significa que você entende os limites da visão deles. Você torna o papel parte de você nesse momento, criando um novo caminho para você e sua tradição. Diga ao MJ como seu novo entendimento dos seus fardos cria um novo caminho para todes."
 		},
 		"Idealist GQ": {
-			"name": "Idealista PdC"
+			"name": "Idealista PdC",
+			"description": "Você melhorou as vidas de uma comunidade de pessoas comuns, ou ajudou uma pessoa comum com seus problemas?"
 		},
 		"Idealist MoB": {
-			"name": "Idealista MdE"
+			"name": "Idealista MdE",
+			"description": "A dor do mundo pode ser esmagadora, mas o equilíbrio traz a paz. Você faz com que tudo ao redor pare — vilões, discussões, desastres — e faz o mundo voltar aos eixos. Conte ao MJ como suas ações de compaixão encerram o conflito repentina e completamente."
 		},
 		"Is That the Best You Got?": {
 			"name": "É o Melhor Que Você Consegue?"
@@ -143,7 +164,8 @@
 			"name": "Legado de Excelência"
 		},
 		"Martyr Complex": {
-			"name": "Complexo de Mártyr"
+			"name": "Complexo de Mártyr",
+			"description": "Quando você tiver um total de 8 condições marcadas, o princípio no mais alto e a fadiga marcada, ganhe +1 constante para todos os movimentos."
 		},
 		"Never Turn My Back": {
 			"name": "Nunca Dar As Costas"
@@ -152,7 +174,8 @@
 			"name": "Sem Tempo Para Sentimentos"
 		},
 		"Not Done Yet!": {
-			"name": "Ainda Não Acabou!"
+			"name": "Ainda Não Acabou!",
+			"description": "Uma vez por sessão, quando você for incapacitado, mude seu equilíbrio rumo ao centro para se manter em pé por mais uma troca de um conflito. Após essa troca terminar, você fica indefeso, inconsciente ou incapaz de continuar, e volta a estar neutralizado."
 		},
 		"Otter-Penguins, Unagi, and Hot Springs": {
 			"name": "Pinguins-Lontra, Enguais e Fontes Termais"
@@ -161,22 +184,27 @@
 			"name": "À Paisana"
 		},
 		"Overwhelm": {
-			"name": "Sobrepujar"
+			"name": "Sobrepujar",
+			"description": "Golpeie com todo seu peso e força; marque 3-fadiga para infligir Zonzo em um oponente engajado."
 		},
 		"Pillar GQ": {
-			"name": "Pilar PdC"
+			"name": "Pilar PdC",
+			"description": "Você ajudou um camarada a ser bem-sucedido ao lidar com seus problemas ou liderou o grupo num sucesso coletivo que importa?"
 		},
 		"Pillar MoB": {
-			"name": "Pilar MdE"
+			"name": "Pilar MdE",
+			"description": "Você se define como parte de um grupo maior e, nesse momento, o grupo se define com base em você. Você os mobiliza, se move em meio a eles dizendo as coisas certas e dando a orientação adequada para que seu grupo trabalhe de forma coesa e confiante. Diga ao MJ o que você diz a cada um dos seus camaradas para que, nesse momento, vocês superem um desafio imponente."
 		},
 		"Pinpoint Aim": {
 			"name": "Mira Precisa"
 		},
 		"Prodigy GQ": {
-			"name": "Prodígio PdC"
+			"name": "Prodígio PdC",
+			"description": "Você expressou sua gratidão a um camarada pela sua presença, apoio ou ensinamentos?"
 		},
 		"Prodigy MoB": {
-			"name": "Prodígio MdE"
+			"name": "Prodígio MdE",
+			"description": "Você sempre teve dificuldade de confiar em outras pessoas, parece que isso te faz sentir fraco. Mas nesse momento, sua conexão com os outros é a maior fonte de sua força. Você invoca seu comprometimento com o grupo para te impulsionar e ir além dos seus limites e fazer o impossível. Diga ao MJ como você realiza um ato que ninguém nunca tinha feito para salvar seus amigos."
 		},
 		"Protector's Burden": {
 			"name": "Fardo do Protetor"
@@ -185,16 +213,19 @@
 			"name": "Bater Onde Dói"
 		},
 		"Rogue GQ": {
-			"name": "Subversivo PdC"
+			"name": "Subversivo PdC",
+			"description": "Você conseguiu que um amigo se juntasse a você ou aprovasse a prática de um dos seus maus hábitos?"
 		},
 		"Rogue MoB": {
-			"name": "Subversivo MdE"
+			"name": "Subversivo MdE",
+			"description": "Você aprendeu desde cedo que você precisaria fazer o necessário para sobreviver, e isso às vezes significou perder amigos. Agora você está encontrando um novo tipo de equilíbrio: quebrar as regras não é simplesmente algo que afasta as pessoas, é algo que pode ser usado de forma construtiva com seus amigos! Diga ao MJ como você leva seus camaradas a quebrarem todas as regras e realizar algo incrível."
 		},
 		"Roguish Charm": {
 			"name": "Borogodó"
 		},
 		"Slide Around the Blow": {
-			"name": "Dançar Ao Redor dos Golpes"
+			"name": "Dançar Ao Redor dos Golpes",
+			"description": "Você se move perfeitamente, escorregando para escapar dos golpes e fazendo com que o oponente mantenha a atenção em você. Um oponente com o qual você está engajado precisa se manter engajado com você e só pode usar técnicas contra você na próxima troca. Se nenhum oponente estiver engajado com você, você pode deslizar pela luta para engajar um novo oponente (nenhum oponente pode marcar fadiga para impedir esse movimento)."
 		},
 		"Slippery Eel-Hound": {
 			"name": "Peixe-Cão Ensobado"
@@ -212,10 +243,12 @@
 			"name": "Fala na Cara"
 		},
 		"Successor GQ": {
-			"name": "Herdeiro PdC"
+			"name": "Herdeiro PdC",
+			"description": "Você aprendeu algo significativo ou importante sobre sua linhagem, seus membros, ou o efeito que eles têm sobre o mundo e as pessoas?"
 		},
 		"Successor MoB": {
-			"name": "Herdeiro MdE"
+			"name": "Herdeiro MdE",
+			"description": "Você pode nunca escapar do legado da sua família, mas o equilíbrio te permite aprender com eles sem deixar que definam quem você é. Você usa um recurso da sua família para criar uma solução inovadora para um problema que parecia insolúvel, sem jamais esquecer quem você é diante do perigo. Diga ao MJ como você ultrapassa obstáculos que pareciam intransponíveis e salva o dia."
 		},
 		"Surprising Entrance": {
 			"name": "Aparição Surpresa"
@@ -224,10 +257,12 @@
 			"name": "Mente Desconfiada"
 		},
 		"Sweep the Leg": {
-			"name": "Passar a Perna"
+			"name": "Passar a Perna",
+			"description": "Você ataca no ponto mais fraco ou no momento de maior instabilidade do oponente; se seu aliado tiver um total e três ou mais condições ou fadiga marcadas, inflija 2-fadiga. Se seu oponente tiver menos de três marcadas entre condições e fadiga, inflija 2-fadiga, mas você precisa marcar 1-fadiga também."
 		},
 		"Tag Team": {
-			"name": "Vamos Juntos"
+			"name": "Vamos Juntos",
+			"description": "Enfrente o mesmo oponente junto de um aliado; escolha um oponente engajado e um aliado. Dobre qualquer fadiga, condições ou mudanças de equilíbrio que o aliado infligir naquele oponente."
 		},
 		"Takes One to Know One": {
 			"name": "Os Iguais se Reconhecem"
@@ -236,37 +271,56 @@
 			"name": "Deixem Comigo, Eu Dou Conta"
 		},
 		"The Adamant": {
-			"name": "O Inflexíel"
+			"name": "O Inflexíel",
+			"topTrack": "Temperança",
+			"bottomTrack": "Resultados"
 		},
 		"The Bold": {
-			"name": "O Audaz"
+			"name": "O Audaz",
+			"topTrack": "Lealdade",
+			"bottomTrack": "Autoestima"
 		},
 		"The Guardian": {
-			"name": "O Guardião"
+			"name": "O Guardião",
+			"topTrack": "Autoconfiança",
+			"bottomTrack": "Confiança (em outros)"
 		},
 		"The Hammer": {
-			"name": "O Martelo"
+			"name": "O Martelo",
+			"topTrack": "Força",
+			"bottomTrack": "Cuidado"
 		},
 		"The Icon": {
-			"name": "O Ícone"
+			"name": "O Ícone",
+			"topTrack": "Papel",
+			"bottomTrack": "Liberdade"
 		},
 		"The Idealist": {
-			"name": "O Idealista"
+			"name": "O Idealista",
+			"topTrack": "Perdão",
+			"bottomTrack": "Ação"
 		},
 		"The Lodestar": {
 			"name": "O Norte"
 		},
 		"The Pillar": {
-			"name": "O Pilar"
+			"name": "O Pilar",
+			"topTrack": "Apoio",
+			"bottomTrack": "Liderança"
 		},
 		"The Prodigy": {
-			"name": "O Prodígio"
+			"name": "O Prodígio",
+			"topTrack": "Excelência",
+			"bottomTrack": "Comunidade"
 		},
 		"The Rogue": {
-			"name": "O Subversivo"
+			"name": "O Subversivo",
+			"topTrack": "Amizade",
+			"bottomTrack": "Sobrevivência"
 		},
 		"The Strength of Your Heart": {
-			"name": "Coração Valente"
+			"name": "Coração Valente",
+			"description": "Quando você tomar uma posição, os oponentes precisam marcar 2-fadiga para impedir esse seu movimento."
 		},
 		"The Successor": {
 			"name": "O Herdeiro"
@@ -287,7 +341,8 @@
 			"name": "Vem Por Aqui"
 		},
 		"Wall of Perfection": {
-			"name": "Muralha Perfeita"
+			"name": "Muralha Perfeita",
+			"description": "Cria uma perfeita muralha de defesa ao seu redor e de aliados próximos de você; marque 1-fadiga para bloquear um único ataque direcionado à muralha ou repelir um inimigo que tente penetrar sua muralha."
 		},
 		"Walls Can't Hold Me": {
 			"name": "Ninguém me Segura"
@@ -299,13 +354,15 @@
 			"name": "Tudo Que Eu Puder"
 		},
 		"Worldly Knowledge": {
-			"name": "Conhecimento Mundial"
+			"name": "Conhecimento Mundial",
+			"description": "Sua criação expandiu seus horizontes, habilidades e contatos. Escolha outro treinamento e outro antecedente."
 		},
 		"Yip Yip!": {
 			"name": "Yip Yip!"
 		},
 		"You Missed Something": {
-			"name": "Você Esqueceu de Algo"
+			"name": "Você Esqueceu de Algo",
+			"description": "Quando você analisar o plano de um PNJ para fazer algo, role com Foco. Em um sucesso, o MJ te diz como você pode aumentar as chances de sucesso de forma drástica; faça isso, e ele certamente vai se dar bem. Em um 7-9, os problemas inerentes ao plano são grandes; o PNJ vai resistir em fazer as mudanças necessárias. Em uma falha, algo sobre o plano te coloca num turbilhão; o MJ te diz qual o perigo óbvio que o PNJ está ignorando... ou o que ele está escondendo de você."
 		},
 		"You're Not My Master!": {
 			"name": "Você Não Manda Em Mim!"
