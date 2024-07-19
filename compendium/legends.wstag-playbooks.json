@@ -1,5 +1,10 @@
 {
 	"label": "Manuais WST",
+	"mapping": {
+		"description": "system.description",
+		"topTrack": "system.balance.topTrack",
+		"bottomTrack": "system.balance.bottomTrack"
+	},
 	"folders": {
 		"The Destined": "O Escolhido",
 		"The Elder": "O Ancião",
@@ -14,7 +19,8 @@
 			"name": "Coração Aberto"
 		},
 		"Anticipate": {
-			"name": "Antecipar"
+			"name": "Antecipar",
+			"description": "Estude um oponente próximo para entender qual deve ser o próximo movimento dele. Declare a abordagem para a qual ele parece estar inclinado. Na próxima troca, esse oponente precisará usar essa abordagem ou marcar uma condição."
 		},
 		"Around Here Somewhere": {
 			"name": "Em Algum Lugar Por Aqui"
@@ -35,10 +41,12 @@
 			"name": "Sem Baboseira"
 		},
 		"Destined GQ": {
-			"name": "Escolhido PdC"
+			"name": "Escolhido PdC",
+			"description": "Você passou um tempo significativo com alguma outra pessoa se concentrando nos problemas e preocupações dela?"
 		},
 		"Destined MoB": {
-			"name": "Escolhido MdE"
+			"name": "Escolhido MdE",
+			"description": "O Destino pode ser algo frustrante, que exige que você se comprometa e o aceite ao mesmo tempo em que não dá informações claras sobre quando virá. Nesse instante, com sua alma em pleno equilíbrio, você percebe que esse é o momento que você esperava. Você mostra estar à altura do desafio, encorajando outros com seus dons espirituais únicos. Diga ao MJ como sua serenidade e força de vontade juntas ganham o dia e inspiram todos ao seu redor."
 		},
 		"Double Heritage": {
 			"name": "Dupla Linhagem"
@@ -47,25 +55,30 @@
 			"name": "Ecos Lendários"
 		},
 		"Elder GQ": {
-			"name": "Ancião PdC"
+			"name": "Ancião PdC",
+			"description": "O Ancião não tem uma pergunta de crescimento, nem ganha crescimento como os outros manuais. No lugar disso, o Ancião ganha avanços de crescimento conforme ajuda seus protegidos a alcançarem seu potencial e avançarem rumo a seus próprios princípios. Leia mais em Sabedoria das Eras do Ancião."
 		},
 		"Elder MoB": {
 			"name": "Ancião MdE"
 		},
 		"Empty Your Mind": {
-			"name": "Esvaziar a Mente"
+			"name": "Esvaziar a Mente",
+			"description": "Você pode fluir e se adaptar, sem forma e sem regras. Durante uma troca, após rolar o movimento de postura, você pode marcar fadiga para selecionar uma técnica básica de uma abordagem diferente da que escolheu. (Você ainda precisa pagar os outros custos da técnica)"
 		},
 		"Eyes of the Soul": {
 			"name": "Janelas da Alma"
 		},
 		"Feel the Flow": {
-			"name": "Sentir o Fluxo"
+			"name": "Sentir o Fluxo",
+			"description": "Você para e sente o fluxo da batalha enquanto estuda as formas como a sua oposição luta. Você se torna Favorecido. Se seu alvo tiver um treinamento em comum com você, aprenda o princípio dele. Se você souber o princípio do alvo, remova 1-fadiga (mesmo que o alvo não tenha um treinamento em comum)."
 		},
 		"Foundling GQ": {
-			"name": "Desgarrado PdC"
+			"name": "Desgarrado PdC",
+			"description": "Você resolveu um conflito ou problema ao confiar em algo além de seus treinamentos?"
 		},
 		"Foundling MoB": {
-			"name": "Desgarrado MdE"
+			"name": "Desgarrado MdE",
+			"description": "Você sempre teve dificuldades de encontrar uma união entre suas duas metades enquanto tenta honrar todas as tradições. O verdadeiro equilíbrio vem de saber que tudo é parte de algo maior. Uma cultura não pode existir sem a outra... especialmente dentro de você. Conte ao MJ como sua nova compreensão permite a você usar seus dois treinamentos para realizar algo impressionante ou derrotar um inimigo que parecia invencível."
 		},
 		"Frustrated": {
 			"name": "Frustrado"
@@ -80,7 +93,8 @@
 			"name": "Os Verdadeiros Prazeres da Vida"
 		},
 		"Lure": {
-			"name": "Atrair"
+			"name": "Atrair",
+			"description": "Você atrai um oponente, deixando-o desnorteado. Escolha um oponente para atrair: se ele não tentar lhe infligir fadiga, condições, mudança de equilíbrio ou status negativos até o fim dessa troca, ele precisará marcar 2-fadiga. Se ele tentar lhe prejudicar nessa troca, você se tornará Favorecida para a próxima troca."
 		},
 		"Making Amends": {
 			"name": "Fazendo Reparações"
@@ -98,16 +112,19 @@
 			"name": "Mais Que Joguetes Do Destino"
 		},
 		"Patience": {
-			"name": "Paciência"
+			"name": "Paciência",
+			"description": "Você espera até o momento perfeito para agir. Marque 1-fadiga para ganhar Preparado e usar uma técnica de avançar e atacar, pagando todos os custos normalmente. Marque outra fadiga para permitir a um camarada engajado com aquele mesmo oponente usar uma técnica de avançar e atacar contra ele também, pagando os custos apropriados como sempre."
 		},
 		"Peacemaker": {
 			"name": "Emissário da Paz"
 		},
 		"Razor GQ": {
-			"name": "Navalha PdC"
+			"name": "Navalha PdC",
+			"description": "Você tentou buscar reparações por erros do passado ou provar que você é uma pessoa diferente agora?"
 		},
 		"Razor MoB": {
-			"name": "Navalha MdE"
+			"name": "Navalha MdE",
+			"description": "Você foi ensinada que é preciso se controlar, e que se revelar, se conectar, é perder o controle. Agora, você percebe que se conectar não é uma fraqueza, é uma escolha, uma forma de se controlar. Você toma isso para si, escolhendo criar conexões com os outros e se propelir a alturas que achava impossíveis. Conte ao MJ como você salva aqueles com os quais se importa de uma ameaça ou problema tremendamente aterrorizantes."
 		},
 		"Remorseful": {
 			"name": "Arrependido"
@@ -116,16 +133,24 @@
 			"name": "Abalado"
 		},
 		"The Destined": {
-			"name": "O Escolhido"
+			"name": "O Escolhido",
+			"topTrack": "Paciência",
+			"bottomTrack": "Determinação"
 		},
 		"The Elder": {
-			"name": "O Ancião"
+			"name": "O Ancião",
+			"topTrack": "Experiência",
+			"bottomTrack": "Humildade"
 		},
 		"The Foundling": {
-			"name": "O Desgarrado"
+			"name": "O Desgarrado",
+			"topTrack": "Coesão",
+			"bottomTrack": "Linhagem"
 		},
 		"The Razor": {
-			"name": "A Navalha"
+			"name": "A Navalha",
+			"topTrack": "Controle",
+			"bottomTrack": "Conexão"
 		},
 		"Things in Common": {
 			"name": "Coisas em Comum"
@@ -134,7 +159,8 @@
 			"name": "Talismã de Estimação"
 		},
 		"Winning is Everything": {
-			"name": "Vencer é o Que Importa"
+			"name": "Vencer é o Que Importa",
+			"description": "Quando você escolher jogar sujo — atacar um inocente que seu oponente esteja tentando proteger, jogar areia nos olhos, etc. — no começo de uma troca de combate, ao invés de usar uma das abordagens padrão diga o que você faz e use um 10+ ao invés de rolar o movimento de postura. Você se torna Favorecida durante essa troca e pode escolher suas técnicas de qualquer abordagem. No fim da troca, o oponente pode apontar seu comportamento desonrado e sua falta de integridade para mudar seu equilíbrio duas vezes."
 		},
 		"Wisdom of the Ages": {
 			"name": "Sabedoria das Eras"
