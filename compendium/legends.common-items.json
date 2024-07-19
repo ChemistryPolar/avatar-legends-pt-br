@@ -31,30 +31,33 @@
 		},
 		"Afraid": {
 			"name": "Amedrontado",
-			"description": "<p>Tome-2 para <strong>intimidar</strong> e <strong>criticar alguém</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
+			"description": "<p>Tome -2 para <strong>intimidar</strong> e <strong>criticar alguém</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
 			"0": "Intimidar",
 			"1": "Criticar Alguém"
 		},
 		"Angry": {
 			"name": "Enraivecido",
-			"description": "<p>Tome-2 para <strong>Guiar e Confortar</strong> e <strong>Avaliar uma Situação</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
+			"description": "<p>Tome -2 para <strong>Guiar e Confortar</strong> e <strong>Avaliar uma Situação</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
 			"0": "Guiar e Confortar",
 			"1": "Avaliar uma Situação"
 		},
 		"Assess a Situation": {
-			"name": "Avaliar uma Situação"
+			"name": "Avaliar uma Situação",
+			"description": "<p>Quando você <strong>Avaliar uma Situação</strong>, role com <span class=\"skill-name\">Criatividade</span>. Em um 7&ndash;9, faça uma pergunta. Em um 10+, faça duas perguntas. Ganhe +1 constante enquanto agir com base nas respostas.</p>\n<ul>\n<li>O que aqui eu posso usar para ...?</li>\n<li>Quem ou o que é a maior ameaça?</li>\n<li>Ao quê eu deveria ficar atento?</li>\n<liQual é o melhor caminho para entrar/sair/atravessar?</li>\n<li>Quem ou o quê representa mais perigo?</li>\n</ul>"
 		},
 		"Bolster or Hinder": {
 			"name": "Reforçar ou Debilitar"
 		},
 		"Call Someone Out": {
-			"name": "Criticar Alguém"
+			"name": "Criticar Alguém",
+			"description": "<p>Quando você abertamente <strong>criticar alguém para agir de acordo com um de seus princípios</strong>, mude seu equilíbrio para longe do centro,, indique qual o princípio da pessoa e role com ele. Num sucesso, ela deve agir como você diz ou ela pode escolher não fazer isso e marcar uma condição. Em um 7&ndash;9, eles podem desafiar sua visão de mundo também; marque 1-fadiga ou eles mudam seu equilíbrio conforme a escolha deles. Numa falha, ela pode exigir que você aja de acordo com um dos seus princípios; marque uma condição ou aja como a pessoa indicou.</p>"
 		},
 		"Commit": {
 			"name": "Dedicar"
 		},
 		"Deny a Callout": {
-			"name": "Negar uma Crítica"
+			"name": "Negar uma Crítica",
+			"description": "<p>Quando você <strong>confrontar um PNJ que está te criticando e dizendo a você para agir de acordo com um de seus princípios</strong>, role com aquele princípio. Em um sucesso, aja como ele diz ou marque 1-fadiga. Em um 10+, as palavras te afetam e você também precisará mover seu equilíbrio em direção ao princípio ndicado. Em uma falha, você se mantém firme; remova uma condição, remova 1-fadiga ou mude seu equilíbrio, à sua escolha.</p>"
 		},
 		"Doomed": {
 			"name": "Enrascado"
@@ -66,23 +69,25 @@
 			"name": "Favorecido"
 		},
 		"Guide and Comfort": {
-			"name": "Guiar e Confortar"
+			"name": "Guiar e Confortar",
+			"description": "<p>Quando você tenta <strong>guiar e confortar</strong> outra pessoa de forma legítima, role com <span class=\"skill-name\">Harmonia</span>. Quando rolar um sucesso, escolha uma opção:</p>\n<ul>\n<li>A pessoa aceita seu conforto e orientação. A pessoa pode remover uma condição ou 2-fadiga, e você pode fazer uma pergunta a ela, e ela tem que responder de forma honesta.</li>\n<li>A pessoa se fecha para você e te afasta. Ela inflige uma ondição em você, e você muda o equilíbrio dela em resposta.</li>\n</ul>\n<p>Em um 10+, se a pessoa acolher seu conforto e orientação, você também pode mudar o equilíbrio dela.</p>"
 		},
 		"Guilty": {
 			"name": "Culpado",
-			"description": "<p>Tome-2 para <strong>Tentar a Sorte</strong> e +2 para<strong>Negar uma Crítica</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
+			"description": "<p>Tome -2 para <strong>Tentar a Sorte</strong> e +2 para<strong> Negar uma Crítica</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
 			"0": "Tentar a Sorte",
 			"1": "Negar uma Crítica"
 		},
 		"Help": {
-			"name": "Ajudar"
+			"name": "Ajudar",
+			"description": "<p>Quando você usar uma ação apropriada para <strong>ajudar um camarada</strong>, marque 1-fadiga e dê a elu +1 numa rolagem (acrescentado após a rolagem). Você não pode ajudar numa troca em combate dessa forma</p>"
 		},
 		"Impaired": {
 			"name": "Atrapalhado"
 		},
 		"Insecure": {
 			"name": "Inseguro",
-			"description": "<p>Tome-2 para <strong>Enganar</strong> e <strong>Resistir à Mudança de Equilíbrio</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
+			"description": "<p>Tome -2 para <strong>Enganar</strong> e <strong>Resistir à Mudança de Equilíbrio</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
 			"0": "Enganar",
 			"1": "Resistir à Mudança de Equilíbrio"
 		},
@@ -90,16 +95,20 @@
 			"name": "Inspirado"
 		},
 		"Intimidate": {
-			"name": "Intimidar"
+			"name": "Intimidar",
+			"description": "<p>Quando você <strong>intimidar um PNJ</strong> ara que ele recue ou ceda, role com <span class=\"skill-name\">Paixão</span>. Em um acerto, escolha uma das opções abaixo. Em um 10+, você pode, primeiro, escolher uma opção que ele não pode escolher.</p>\n<ul>\n<li>Correr para escapar ou buscar reforços.</li>\n<li>Recuar mas se manter vigilante.</li>\n<li>Ceder, mas barganhar algumas condições.</li>\n<li>Te atacar, mas abalado, o MJ marca uma condição nele.</li>\n</ul>"
 		},
 		"Live Up to your Principle": {
-			"name": "Assumir seus Princípios"
+			"name": "Assumir seus Princípios",
+			"description": "<p>Quando você <strong>age de acordo com os valores do seu princípio</strong>, marque 1-fadiga e role com esse princípio ao invés de qualquer capacidade que você normalmente usaria para essa rolagem.</p>"
 		},
 		"Lose Your Balance": {
-			"name": "Perder seu Equilíbrio"
+			"name": "Perder seu Equilíbrio",
+			"description": "<p>Se seu equilíbrio ultrapassar o fim da faixa de marcação, <strong>você perde seu equilíbrio</strong>. Você se torna obcecado por aquele princípio a um nível que não é saudável para você ou para qualquer pessoa ao seu redor. Escolha uma das opções abaixo:</p>\n<ul>\n<li>Desista ou se renda aos seus oponentes;</li>\n<li>Perca o controle de uma forma destrutiva e nociva;</li>\n<li>Tome uma ação radical que seja alinhada ao seu princípio, e então fuja.</li>\n</ul>\n<p>Depois, quando tiver tido algum tempo para se recuperar e centrar, mude seu centro um passo em direção ao princípio que você exagerou, e remova todas as suas condições e fadiga. Reinicie seu equilíbrio nesse novo centro.</p>"
 		},
 		"Plead": {
-			"name": "Pedir"
+			"name": "Pedir",
+			"description": "<p>Quando você <strong>pedir a um PNJ</strong> que se importa com sua opinião para que te ajude, apoie ou aja de alguma forma, role com <span class=\"skill-name\">Harmonia</span>. Em um 7&ndash;9, ele precisa de algo mais&mdash;evidência de que isso é o certo a fazer, orientação para tomar as decisões corretas, ou recursos para ajudar&mdash;antes de agir, o MJ vai te dizer o que é necessário. Em um 10+, ele age agora e faz seu melhor até que a situação mude.</p>"
 		},
 		"Prepared": {
 			"name": "Preparado"
@@ -108,16 +117,19 @@
 			"name": "Pressionar"
 		},
 		"Push Your Luck": {
-			"name": "Tentar sua Sorte"
+			"name": "Tentar sua Sorte",
+			"description": "<p>Quando você <strong>tenta a sorte</strong> numa situação arriscada, diga o que quer fazer e role com <span class=\"skill-name\">Paixão</span>. Num sucesso, você consegue, mas há custos para escapar por pouco, e o MJ irá te contar quais as consequências. Num 10+, sua ousadia compensa apesar do custo, e o MJ te dirá que outra oportunidade o acaso te entrega.</p>"
 		},
 		"Ready": {
 			"name": "Preparar"
 		},
 		"Rely on Your Skills & Training": {
-			"name": "Confiar nas suas Habilidades e Treinamento"
+			"name": "Confiar nas suas Habilidades e Treinamento",
+			"description": "<p>Quando você <strong>confiar nas suas habilidades e treinamento</strong> para superar um obstáculo, entender algo novo ou fazer algo a que está habituado, role com <span class=\"skill-name\">Foco</span>. Num sucesso, você é bem-sucedido. Em um 7–9, você o faz de forma imperfeita —o MJ te informa como sua abordagem pode te levar a consequências inesperadas; aceite essas consequências ou marque 1-fadiga.</p>"
 		},
 		"Resist Shifting Your Balance": {
-			"name": "Resistir uma Mudança de Equilíbrio"
+			"name": "Resistir uma Mudança de Equilíbrio",
+			"description": "<p>Quando você <strong>resistir à tentativa de um PNJ para mudar seu equilíbrio</strong>, role. Se for um sucesso,  você mantém seu equilíbrio atual independentemente das palavras ou ações dessa pessoa. Em um 10+, escolha duas das opções abaixo. Em um 7&ndash;9, escolha uma das opções abaixo.</p>\n<ul>\n<li>Remova uma condição ou marque crescimento ao provar, imediatamente, que a pessoa que te criticou está errada;</li>\n<li>Mude seu equilíbrio em direção ao princípio oposto;</li>\n<li>Aprenda qual o princípio da pessoa (se ela tiver um) que tentou mudar seu equilíbrio; se já souber, ganhe +1 adiante contra ela</li>\n</ul>\n<p>Em uma falha, a pessoa sabe exatamente o que dizer para te desequilibrar: marque uma condição, e o MJ altera seu equilíbrio duas vezes.</p>"
 		},
 		"Retaliate": {
 			"name": "Retaliar"
@@ -147,11 +159,12 @@
 			"name": "Imobilizado"
 		},
 		"Trick": {
-			"name": "Enganar"
+			"name": "Enganar",
+			"description": "<p>Quando você <strong>enganar um PNJ</strong>, role com <span class=\"skill-name\">Criatividade</span>. Em um sucesso, ele é enganado e faz o que você quer nesse momento. Em um 7&ndash;9, escolha uma das opções abaixo. Em um 10+, escolha duas das opções abaixo.</p>\n<ul>\n<li>Ele tropeça, você ganha +1 adiante quando agir contra ele.</li>\n<li>Ele age imprudentemente, o MJ te fala qual outra oportunidade você ganha.</li>\n<li>Ele acredita até demais, o PNJ continua enganado por algum tempo.</li>\n</ul>"
 		},
 		"Troubled": {
 			"name": "Perturbado",
-			"description": "<p>Tome-2 para <strong>Pedir</strong> e <strong>Confiar Em Suas Habilidades</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
+			"description": "<p>Tome -2 para <strong>Pedir</strong> e <strong>Confiar Em Suas Habilidades</strong>.</p>\n<p><strong>Para remover:</strong> Fuja do perigo ou da dificuldade.</p>",
 			"0": "Pedir",
 			"1": "Confiar Em Suas Habilidades"
 		}
