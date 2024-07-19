@@ -46,27 +46,32 @@
 			"description": "<p>Quando você <strong>Avaliar uma Situação</strong>, role com <span class=\"skill-name\">Criatividade</span>. Em um 7&ndash;9, faça uma pergunta. Em um 10+, faça duas perguntas. Ganhe +1 constante enquanto agir com base nas respostas.</p>\n<ul>\n<li>O que aqui eu posso usar para ...?</li>\n<li>Quem ou o que é a maior ameaça?</li>\n<li>Ao quê eu deveria ficar atento?</li>\n<liQual é o melhor caminho para entrar/sair/atravessar?</li>\n<li>Quem ou o quê representa mais perigo?</li>\n</ul>"
 		},
 		"Bolster or Hinder": {
-			"name": "Reforçar ou Debilitar"
+			"name": "Reforçar ou Debilitar",
+			"description": "Ajude ou sabote um personagem próximo, infligindo um status apropriado."
 		},
 		"Call Someone Out": {
 			"name": "Criticar Alguém",
 			"description": "<p>Quando você abertamente <strong>criticar alguém para agir de acordo com um de seus princípios</strong>, mude seu equilíbrio para longe do centro,, indique qual o princípio da pessoa e role com ele. Num sucesso, ela deve agir como você diz ou ela pode escolher não fazer isso e marcar uma condição. Em um 7&ndash;9, eles podem desafiar sua visão de mundo também; marque 1-fadiga ou eles mudam seu equilíbrio conforme a escolha deles. Numa falha, ela pode exigir que você aja de acordo com um dos seus princípios; marque uma condição ou aja como a pessoa indicou.</p>"
 		},
 		"Commit": {
-			"name": "Dedicar"
+			"name": "Dedicar",
+			"description": "Se centrar em meio à batalha. Mude seu equilíbrio rumo a um dos seus princípios, e da próxima vez que você <strong>assumir aquele princípio</strong>, não marque fadiga."
 		},
 		"Deny a Callout": {
 			"name": "Negar uma Crítica",
 			"description": "<p>Quando você <strong>confrontar um PNJ que está te criticando e dizendo a você para agir de acordo com um de seus princípios</strong>, role com aquele princípio. Em um sucesso, aja como ele diz ou marque 1-fadiga. Em um 10+, as palavras te afetam e você também precisará mover seu equilíbrio em direção ao princípio ndicado. Em uma falha, você se mantém firme; remova uma condição, remova 1-fadiga ou mude seu equilíbrio, à sua escolha.</p>"
 		},
 		"Doomed": {
-			"name": "Enrascado"
+			"name": "Enrascado",
+			"description": "Você está em grave perigo, marque 1-fadiga a cada período de poucos segundos (ou a cada troca) até que você se liberte disso."
 		},
 		"Empowered": {
-			"name": "Empoderado"
+			"name": "Empoderado",
+			"description": "Suas habilidades estão naturalmente mais fortes no momento, remova 1-fadiga ao final de cada troca."
 		},
 		"Favored": {
-			"name": "Favorecido"
+			"name": "Favorecido",
+			"description": "Você foi agraciado pelas circunstâncias, escolha uma técnica adicional básica ou dominada a mais na próxima troca, mesmo que role uma falha."
 		},
 		"Guide and Comfort": {
 			"name": "Guiar e Confortar",
@@ -83,7 +88,8 @@
 			"description": "<p>Quando você usar uma ação apropriada para <strong>ajudar um camarada</strong>, marque 1-fadiga e dê a elu +1 numa rolagem (acrescentado após a rolagem). Você não pode ajudar numa troca em combate dessa forma</p>"
 		},
 		"Impaired": {
-			"name": "Atrapalhado"
+			"name": "Atrapalhado",
+			"description": "Você está desacelerado ou com a coordenação motora prejudicada, marque 1- fadiga ou pegue -2 para ações físicas (PJs)."
 		},
 		"Insecure": {
 			"name": "Inseguro",
@@ -92,7 +98,8 @@
 			"1": "Resistir à Mudança de Equilíbrio"
 		},
 		"Inspired": {
-			"name": "Inspirado"
+			"name": "Inspirado",
+			"description": "Você está pronto para lutar por algo. Remova Inspirado para mudar seu equilíbrio em direção a um princípio de sua escolha."
 		},
 		"Intimidate": {
 			"name": "Intimidar",
@@ -111,17 +118,20 @@
 			"description": "<p>Quando você <strong>pedir a um PNJ</strong> que se importa com sua opinião para que te ajude, apoie ou aja de alguma forma, role com <span class=\"skill-name\">Harmonia</span>. Em um 7&ndash;9, ele precisa de algo mais&mdash;evidência de que isso é o certo a fazer, orientação para tomar as decisões corretas, ou recursos para ajudar&mdash;antes de agir, o MJ vai te dizer o que é necessário. Em um 10+, ele age agora e faz seu melhor até que a situação mude.</p>"
 		},
 		"Prepared": {
-			"name": "Preparado"
+			"name": "Preparado",
+			"description": "Quando você se prepara para o que está por vir. Remova Preparado para adicionar +1 a uma rolagem apropriada (após rolar os dados) ou para evitar marcar uma condição."
 		},
 		"Pressure": {
-			"name": "Pressionar"
+			"name": "Pressionar",
+			"description": "Impressionar ou intimidar um oponente. Escolha uma abordagem e seu oponente não poderá usar essa abordagem na próxima troca."
 		},
 		"Push Your Luck": {
 			"name": "Tentar sua Sorte",
 			"description": "<p>Quando você <strong>tenta a sorte</strong> numa situação arriscada, diga o que quer fazer e role com <span class=\"skill-name\">Paixão</span>. Num sucesso, você consegue, mas há custos para escapar por pouco, e o MJ irá te contar quais as consequências. Num 10+, sua ousadia compensa apesar do custo, e o MJ te dirá que outra oportunidade o acaso te entrega.</p>"
 		},
 		"Ready": {
-			"name": "Preparar"
+			"name": "Preparar",
+			"description": "Marque 1-fadiga para preparar a si ou ao ambiente, impondo ou removendo um status apropriado a você ou aos personagens próximos."
 		},
 		"Rely on Your Skills & Training": {
 			"name": "Confiar nas suas Habilidades e Treinamento",
@@ -132,31 +142,40 @@
 			"description": "<p>Quando você <strong>resistir à tentativa de um PNJ para mudar seu equilíbrio</strong>, role. Se for um sucesso,  você mantém seu equilíbrio atual independentemente das palavras ou ações dessa pessoa. Em um 10+, escolha duas das opções abaixo. Em um 7&ndash;9, escolha uma das opções abaixo.</p>\n<ul>\n<li>Remova uma condição ou marque crescimento ao provar, imediatamente, que a pessoa que te criticou está errada;</li>\n<li>Mude seu equilíbrio em direção ao princípio oposto;</li>\n<li>Aprenda qual o princípio da pessoa (se ela tiver um) que tentou mudar seu equilíbrio; se já souber, ganhe +1 adiante contra ela</li>\n</ul>\n<p>Em uma falha, a pessoa sabe exatamente o que dizer para te desequilibrar: marque uma condição, e o MJ altera seu equilíbrio duas vezes.</p>"
 		},
 		"Retaliate": {
-			"name": "Retaliar"
+			"name": "Retaliar",
+			"description": "Se fortalecer para aguentar os golpes deles. Cada vez que um inimigo infligir fadiga, uma condição ou alterar seu equilíbrio nesta troca, inflija 1-fadiga nesse inimigo."
 		},
 		"Seize a Position": {
-			"name": "Tomar uma Posição"
+			"name": "Tomar uma Posição",
+			"description": "Se mova para um novo local. Engage ou desengage um oponente, supere um obstáculo ou perigo, estabeleça uma posição vantajosa ou escape da cena. Qualquer oponente engajado com você pode marcar 1-fadiga para bloquear essa técnica."
 		},
 		"Smash": {
-			"name": "Esmagar"
+			"name": "Esmagar",
+			"description": "Marque 1-fadiga para destruir ou desestabilizar algo no ambiente, possivelmente infligindo ou superando um status positivo ou negativo apropriado."
 		},
 		"Stance Move": {
-			"name": "Movimento de Postura"
+			"name": "Movimento de Postura",
+			"description": "<p>Cada jogador rola com a condição apropriada, com base na abordagem escolhida:</p>\n<ul>\n<li><strong>Defender e manobrar</strong> é rolado com <span class=\"skill-name\">Foco</span></li>\n<li><strong>Avançar e atacar</strong> é rolado com <span class=\"skill-name\">Paixão</span></li>\n<li><strong>Evadir e observar</strong> é rolado com <span class=\"skill-name\">Criatividade</span> ou <span class=\"skill-name\">Harmonia</span>, à escolha do PJ.</li>\n</ul>\n<p>Em um 7&ndash;9,  use uma técnica básica ou dominada. Em um 10+, escolha uma opção desta lista:</p>\n<ul>\n<li>Marque 1-fadiga para usar uma técnica aprendida;</li>\n<li>Use uma técnica praticada;</li>\n<li>Use duas técnicas básicas ou dominadas diferentes.</li>\n</ul>\n<p>Em uma falha, você hesita, mas pode descentralizar seu equilíbrio para usar uma técnica básica.</p>"
 		},
 		"Strike": {
-			"name": "Golpear"
+			"name": "Golpear",
+			"description": "Golpeie um oponente ao seu alcance, forçando-o a marcar 2-fadiga, marcar uma condição ou mudar seu equilíbrio para longe do centro, à escolha dele. Marque 1-fadiga para escolher fustigar ele com seus golpes, forçando-o a marcar 2-fadiga, ou ataque no ponto fraco dele, infligindo uma condição."
 		},
 		"Stunned": {
-			"name": "Zonzo"
+			"name": "Zonzo",
+			"description": "Você foi pego desprevenido e não consegue agir ou responder por alguns segundos até que se recupere."
 		},
 		"Test Balance": {
-			"name": "Testar o Equilíbrio"
+			"name": "Testar o Equilíbrio",
+			"description": "Marque 1-fadiga para desafiar o equilíbrio de um oponente engajado. Pergunte a ele qual é seu princípio e ele deverá responder honestamente. Se você já souber o princípio dele, mude o equilíbrio do oponente para longe do centro ao questionar ou desafiar suas crenças e perspectivas."
 		},
 		"Training Move": {
-			"name": "Movimento de Treinamento"
+			"name": "Movimento de Treinamento",
+			"description": "<p>Quando você &nbsp;<strong>passar tempo com um professor aprendendo e treinando uma nova técnica</strong>,  role com modificadores das seguintes perguntas:</p>\n<ul>\n<li>Seu equilíbrio está alinhado com seu centro e você está livre de condições? Se sim, pegue +1;</li>\n<li>Você e seu professor compartilham ao menos um antecedente? Se sim, pegue +1;</li>\n<li>Seu professor concorda com suas razões para treinar e aprender? Se não, pegue -1;.</li>\n<li>A técnica em questão é fácil de entender com base no seu treinamento, experiência e habilidades atuais? Se não, pegue -1;</li>\n</ul>\n<p>Em um sucesso, você aprende a técnica e seu mestre muda seu equilíbrio. Em um 10+, você aprende com facilidade e leva o mínimo de tempo possível. Em um 7&ndash;9,  leva mais tempo que o normal ou você precisa marcar duas condições. Em uma falha, você não consegue aprender a técnica porque precisará de mais aprendizado antes de entender seu uso como um todo. Seu mestre te dirá qual a tarefa adicional que você deve completar para entrar no estado mental correto; complete a tarefa e você aprenderá a técnica.</p>"
 		},
 		"Trapped": {
-			"name": "Imobilizado"
+			"name": "Imobilizado",
+			"description": "Você está completamente indefeso e precisa marcar uma combinação de três condições ou níveis de fadiga para escapar (exemplo: 2 condições e 1-fadiga, 3-fadiga, 3 condições, etc.)."
 		},
 		"Trick": {
 			"name": "Enganar",
