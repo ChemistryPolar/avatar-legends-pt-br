@@ -6,7 +6,7 @@
 		"bottomTrack": "system.balance.bottomTrack"
 	},
 	"folders" : {
-		"The Adamant": "O Inflexíel",
+		"The Adamant": "O Inflexível",
 		"The Bold": "O Audaz",
 		"The Guardian": "O Guardião",
 		"The Hammer": "O Martelo",
@@ -28,11 +28,11 @@
 			"name": "Alma de Guerreiro"
 		},
 		"Adamant GQ": {
-			"name": "Inflexíel PdC",
+			"name": "Inflexível PdC",
 			"description": "Você procurou apoio ou orientação dos outros?"
 		},
 		"Adamant MoB": {
-			"name": "Inflexíel MdE",
+			"name": "Inflexível MdE",
 			"description": "Você se manteve fiel ao cerne das suas convicções, mesmo quando teve de sujar as mãos para fazer o que achou necessário. Mas o equilíbrio significa entender que as outras pessoas são tão complexas quanto você, não apenas obstáculos ou peças num tabuleiro. Diga ao MJ como você resolve um problema complexo ou desarma um terrível conflito ao empatizar com pessoas perigosas de uma forma humana."
 		},
 		"An Open Mind": {
@@ -271,7 +271,7 @@
 			"name": "Deixem Comigo, Eu Dou Conta"
 		},
 		"The Adamant": {
-			"name": "O Inflexíel",
+			"name": "O Inflexível",
 			"topTrack": "Temperança",
 			"bottomTrack": "Resultados"
 		},
