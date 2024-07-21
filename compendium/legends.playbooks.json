@@ -19,13 +19,16 @@
 	},
 	"entries": {
 		"A Life of Regret": {
-			"name": "Vida de Arrependimento"
+			"name": "Vida de Arrependimento",
+			"description": "<p>Quando você <strong>guiar e confortar um PNJ</strong> ao se desculpar de forma sincera e prometer reparações pelo sofrimento que o PNJ passou, role com <span class=\"skill-name\">Foco</span> ao invés de <span class=\"skill-name\">Harmony</span>. Se ele escolher não se abrir com você, você não ganha o +1 adiante contra ele. Se ele escolher se abrir com você, pegue +1 constante para tentativas de agir para se redimir.</p>"
 		},
 		"A Tainted Past": {
-			"name": "Uma Mancha na História"
+			"name": "Uma Mancha na História",
+			"description": "<p>Você vem de uma linhagem infame e poderosa que tem uma reputação impressionante e terrível. Sua linhagem teve um impacto enorme no mundo dentro do escopo de sua história — seu alcance se estende por todo o escopo, e todas as pessoas nesse escopo sabem disso. Escolha um domínio que é a fonte do poder de sua linhagem, a área na qual ele afetou o mundo primariamente, e outro que é para o qual ela começa a estender sua influência.</p><ul><li>alta sociedade;</li><li>comando militar;</li><li>arte e entretenimento;</li><li>latifúndios;</li><li>crime organizado;</li><li>autoridade espiritual;</li><li>política;</li><li>comércio e indústria;</li><li>elite acadêmica;</li><li>milícia justiceira;</li><li>mídia e notícias;</li><li>fornecimento de itens/serviços essenciais.</li></ul><h3>Recursos da Família</h3><p>Você tem acesso a dois dos recursos familiares descritos a seguir:</p><ul><li>conhecimento proibido ou obscuro;</li><li>apresentações e contatos;</li><li>criados ou capangas;</li><li>alta tecnologia;</li><li>fortuna imensurável;</li><li>tomos ou artefatos spirituais.</li></ul><p>Consuma recursos ao longo da sessão para estabelecer uma dádiva que você pediu ou obteve anteriormente, algo que a posição única de sua linhagem poderia prover: um veículo, um convite, um baú de moedas de jade etc.</p><h3>Prestar Homenagem</h3><p>Quando você mostrar respeito de forma educada e obediente diante de um membro mais poderoso de sua linhagem, role com Tradição. Em um sucesso, você ganha algum crédito; guarde 3 recursos. Em um 7-9, esses recursos não vem sem algo em troca; você terá de prometer cumprir alguma obrigação com a sua linhagem, ou deixar que alterem seu equilíbrio. Em uma falha, eles não gostam da sua demonstração de respeito e vão te boicotar até você cumprir alguma tarefa que será pedida.</p><h3>Saqueando o patrimônio</h3><p>Quando você consome recursos de sua linhagem sem o conhecimento ou consentimento deles, marque uma condição e role com seu Progresso. Em um sucesso, guarde 1 recurso. Em um 7-9, escolha 1. Em um 10+, escolha dois.</p><ul><li>Você obteve 1 recurso adicional;</li><li>Você embolsa o que pretendia silenciosamente; sua linhagem não fica sabendo;</li><li>Você se prepara para o que está prestes a fazer; evita marcar uma condição.</li></ul><p>Em uma falha, você é pego com a mão na massa por um membro poderoso da sua linhagem.</p>"
 		},
 		"A Warrior's Heart": {
-			"name": "Alma de Guerreiro"
+			"name": "Alma de Guerreiro",
+			"description": "<p>Quando você <strong>assumir seu princípio</strong> quando tiver 3+ condições marcadas, ignore as penalidades das condições. Quando você <strong>assumir seu princípio</strong> quando tiver 5 condições marcadas, não marque fadiga.</p>"
 		},
 		"Adamant GQ": {
 			"name": "Inflexível PdC",
@@ -40,7 +43,8 @@
 			"description": "Você pode aprender técnicas de outras habilidades e treinamentos, contanto que tenha um professor. Você pode aprender até três dessas técnicas no total. Você ganha +1 no movimento de treinamento para aprender essas técnicas."
 		},
 		"Bad Habits": {
-			"name": "Maus Hábitos"
+			"name": "Maus Hábitos",
+			"description": "<p>Você adquiriu alguns maus hábitos ao longo dos anos. A maior parte das pessoas já decidiu que quer que você os abandone. Mas talvez você possa fazer seus amigos desfrutarem deles junto com você... Escolha 4 Maus Hábitos os quais você ainda aprecia e repete.</p><ul><li>Roubar e bater carteiras ocasionalmente;</li><li>Vandalismo ou sabotagem;</li><li>Invasão de propriedade;</li><li>Acrobacias perigosas;</li><li>Insultos “encantadores” de pessoas perigosas;</li><li>Golpes e enganações;</li><li>Manipular as massas;</li><li>Apostar</li></ul><p>Quaisquer habilidades ou talentos relacionados aos seus maus hábitos são considerados parte dos seus antecedentes.</p><p>Quando você <strong>repetir um mau hábito sozinho</strong>, mude seu equilíbrio rumo à Sobrevivência, e role com Sobrevivência. Em um sucesso, você faz tudo direito e extravasa suas frustrações; remova fadiga ou condições iguais ao valor de sua Sobrevivência (mínimo de zero). Se você não tiver fadiga ou condições, marque crescimento. Em um 10+ você também ganha um favor, uma oportunidade, um fruto de sorte inesperada. Seus maus hábitos compensaram dessa vez. Em uma falha, você é pego por alguém poderoso ou perigoso e essa pessoa complica sua vida.</p><p>Quando você <strong>repetir um mau hábito junto de um amigo</strong>, mude seu equilíbrio rumo à Amizade e role com Amizade. Em um sucesso, você e seu amigo fazem tudo certo e se aproximam, cada um de vocês torna o outro <em>Inspirado. </em>Em um 10+ você também obtém algum recurso ou informação útil, e se torna <em>Preparado. </em>Em uma falha, algo dá terrivelmente errado. Você pode levar a culpa ou mudar seu equilíbrio duas vezes na direção de Sobrevivência, se livrar da confusão e deixar seu amigo numa pior.</p>"
 		},
 		"Badge of Authority": {
 			"name": "Insígnia de Autoridade",
@@ -51,7 +55,8 @@
 			"description": "<p>Seu melhor amigo é pequeno, peludinho e confiável. Diferente de todos os outros relacionamentos, esse é simples e verdadeiro. Você pode entender e se comunicar com seu pequeno camarada e ele pode implicar com você de quando em quando, mas sempre estará lá quando você precisar de verdade. Sempre que seu parça puder te ajudar a <strong>tentar a sorte</strong>,  marque fadiga para rolar com <span class=\"skill-name\">Criatividade</span> em vez de <span class=\"skill-name\">Paixão</span>. Se seu bichinho se machucar, marque uma condição</p>"
 		},
 		"Black Koala-Sheep": {
-			"name": "Coala-Ovelha Negra"
+			"name": "Coala-Ovelha Negra",
+			"description": "<p>Quando você se comporta de uma maneira que deixa pessoas do seu círculo social chocadas e incomodadas, role com <span class=\"skill-name\">Criatividade</span> para <strong>intimidar</strong> ou <strong>tentar sua sorte</strong>.</p>"
 		},
 		"Bold GQ": {
 			"name": "Audaz PdC",
@@ -82,14 +87,16 @@
 			"description": "<p>Quando você estiver <strong>engajado em combate contra uma oposição superior e se recusar a recuar ou fugir</strong>, role com <span class=\"skill-name\">Harmonia</span> pelo resto da batalha sempre que você <strong>defender e manobrar</strong>; você não poderá escolher escapar da cena usando Tomar uma Posição pelo resto da luta.</p>"
 		},
 		"Casing the Joint": {
-			"name": "Sondar as Redondezas"
+			"name": "Sondar as Redondezas",
+			"description": "<p>Quando você <strong>avaliar uma situação</strong>, adicione essas perguntas à lista Você sempre pode fazer uma pergunta adicional entre essas opções, mesmo numa falha.</p><ul><li>O quê, aqui, é mais valioso ou interessante para mim?</li><li>Quem ou o quê, aqui, está mais vulnerável para mim?</li><li>Quem é que manda aqui/é mais rico/tem mais poder?</li></ul>"
 		},
 		"Catch a Liar": {
 			"name": "Desmascarar um Mentiroso",
 			"description": "<p>Quando você suspeitar de alguém, anote seu nome</p><p>aqui: _____</p><p>Você não pode escrever outro nome até que tenha feito essa primeira pessoa admitir sua culpa e atos diante de outras pessoas, ou até você desistir de desvendar os seus segredos.</p><p>Quando ele admitir sua culpa e atos diante de uma audiência, tire o nome dele desse movimento. Quando você desistir de descobrir os segredos dele, pode marcar uma condição para tirar o nome desse movimento.</p><p>Quando você expõe a pessoa por suas mentiras e atos, remova toda sua fadiga e até duas condições. Quando você tentar intimidar para que ela admita seus crimes reais usando evidências, você pode eliminar uma opção adicional da lista em qualquer sucesso antes que ela escolha.</p>"
 		},
 		"Challenge": {
-			"name": "Desafiar"
+			"name": "Desafiar",
+			"description": "<p>Quando você desafia um oponente de forma arrogante antes de uma luta, role com <span class=\"skill-name\">Paixão</span>. Em um sucesso, o desafio é aceito; se ganhar a luta, escolha 1 das opções abaixo. Seu desafio também faz com que o oponente dê o seu melhor; ele pode escolher uma técnica adicional em cada troca pela duração da luta. Em um 10+, remova toda a fadiga ao fim da luta se você for vitorioso.</p><p><strong>Se ganhar, escolha 1: seu oponente deve...</strong></p><ul><li>te ensinar uma das técnicas dele ou te ajudar a dominar uma que você já conheça; </li><li>te dar respostas ou um item à sua escolha;</li><li>reconhecer sua superioridade; mude seu equilíbrio rumo a Excelência;</li><li>se posicionar ao seu lado num futuro conflito.</li></ul><p>Em uma falha, ele recusa seu desafio e a luta, e inflige uma condição em você.</p>"
 		},
 		"Comprehend Your Foe": {
 			"name": "Estudar o Inimigo",
@@ -112,10 +119,12 @@
 			"description": "<p>Adiciona +1 à sua condição <span class=\"skill-name\">Paixão</span> (máximo de +3).</p>"
 		},
 		"Extraordinary Skill": {
-			"name": "Habilidade Extraordinária"
+			"name": "Habilidade Extraordinária",
+			"description": "<p>Você não é apenas capaz na sua habilidade e treinamento, é extraordinário. Um verdadeiro prodígio, evolui e aprende muito mais rápido do que qualquer pessoa poderia imaginar. Você pode começar o jogo com uma técnica adicional dominada.</p><p>Escolha duas áreas nas quais sua maestria é especialmente impressionante:</p><ul><li>Defender;</li><li>Forçar</li><li>Manobrar;</li><li>Moldar;</li><li>Quebrar;</li><li>Sentir</li></ul><p>Quando você <strong>confiar em suas habilidades e treinamento</strong>, usar uma postura de combate, ou ativar um movimento de outra forma que se conecte com sua maestria, ignore penalidades de condições ou status.</p><p>Quando você ver alguém usar uma técnica desconhecida, se ela estiver disponível com suas habilidades e treinamento, você pode marcar fadiga para mover seu equilíbrio rumo a Excelência e adicionar essa técnica como aprendida. <strong>Você só pode fazer isso se seu equilíbrio estiver em Excelência +1 ou mais alto</strong>. Você ainda precisará cumprir uma condição de maestria de um mestre da técnica para mover essa técnica de praticada para dominada.</p><p>Quando você estudar com um professor para aprender uma nova técnica, mude seu equilíbrio rumo à Comunidade e automaticamente aprenda uma técnica no nível treinado (pulando o grau aprendido). <strong>Você não pode aprender técnicas ao estudar com um professor se seu Equilíbrio estiver em Comunidade +zero ou menor</strong></p><p>Quando você passar algum tempo ensinando a um camarada uma técnica que esteja disponível para as habilidades e treinamento dele, role com Comunidade. Em um sucesso, você ensina bem o bastante e ele aprende a técnica. Em um 7-9, você fica impaciente e frustrado — escolha descontar nele e infligir duas condições, ou descontar em você mesmo e sofrer duas condições. Em uma falha, você se frustra demais com as inadequações do aluno — você e ele sofrem duas condições e você nunca mais poderá tentar ensinar essa técnica a ele de novo.</p>"
 		},
 		"Fighting Like Dancing": {
-			"name": "Lutar é Como Dançar"
+			"name": "Lutar é Como Dançar",
+			"description": "<p>Quando você <strong>avançar e atacar</strong> contra um grupo de oponentes, ou contra um oponente que te derrotou anteriormente, role com <span class=\"skill-name\">Harmonia</span> ao invés de <span class=\"skill-name\">Paixão</span>.</p>"
 		},
 		"Fueled By Anger": {
 			"name": "Na Força do Ódio",
@@ -166,14 +175,16 @@
 			"description": "A dor do mundo pode ser esmagadora, mas o equilíbrio traz a paz. Você faz com que tudo ao redor pare — vilões, discussões, desastres — e faz o mundo voltar aos eixos. Conte ao MJ como suas ações de compaixão encerram o conflito repentina e completamente."
 		},
 		"Is That the Best You Got?": {
-			"name": "É o Melhor Que Você Consegue?"
+			"name": "É o Melhor Que Você Consegue?",
+			"description": "<p>Quando você provocar ou irritar um PNJ para que ele aja de forma imprudente, diga o que tem para dizer e depois role com <span class=\"skill-name\">Paixão</span>. Em um 10+, ele faz o que você sugere. Em um 7-9, ele pode escolher 1 das opções no lugar disso:</p><ul><li>Ele faz, mas com mais intensidade que o esperado. Você é pego desprevenido;</li><li>Ele faz, mas com mais cuidado do que o esperado. Ele ganha uma vantagem contra você;</li><li>Ele não o faz, mas se envergonha ao reagir. Ele marca uma condição;</li><li>Ele não faz , mas só consegue se segurar no último minuto. Ele hesita e te dá uma oportunidade.</li></ul><p>Em uma falha, ele decide agir de forma brusca, diretamente contra você, de uma forma que você não está preparado para lidar com.</p>"
 		},
 		"It Doesn't Belong to You!": {
 			"name": "Isso Não é Seu!",
 			"description": "<p>Quando você <strong>secretamente pegar algo que é de alguém que não merece</strong>, role com <span class=\"skill-name\">Harmonia</span>. Em um sucesso, você rouba algo da pessoa (à sua escolha) sem que ela note que você pegou. Em um 7-9, a coisa que você pegou não é exatamente o que você achou que fosse; o MJ vai te explicar melhor. Em uma falha, você pega o que queria, mas a pessoa nota — e te persegue — assim que você deixa a cena.</p>"
 		},
 		"Judging a Rival": {
-			"name": "Julgando um Rival"
+			"name": "Julgando um Rival",
+			"description": "<p>Quando você medir as capacidades de alguém, role com <span class=\"skill-name\">Foco</span>. Em um 7-9, faça uma pergunta. Em um 10+, faça duas perguntas.</p><ul><li>Quais são suas forças/fraquezas?</li><li>Como eu posso te mostrar submissão/dominância?</li><li>O que você pretende fazer a seguir?</li><li>O que você gostaria que eu fizesse agora?</li></ul><p>Em uma falha, ele nota que você o está observando; ele pode te fazer 1 pergunta da lista.</p>"
 		},
 		"Legacy of Excellence": {
 			"name": "Legado de Excelência",
@@ -200,7 +211,8 @@
 			"description": "<p>Quando você visitar um local habitado que você pode saber a respeito, role com <span class=\"skill-name\">Harmonia</span>. Em um 7-9, faça uma pergunta. Em um 10+, faça 2. PJs que interagem com uma das respostas podem remover 1-fadiga ou marcar conhecimento.</p><ul><li>Qual é o melhor passatempo local?</li><li>O que tem de interessante por perto?</li><li>Quem é a pessoa mais famosa daqui?</li><li>Qual é a tradição mais estimada pela população?</li><li>Qual é a lenda mais interessante que a população conta sobre este lugar?</li></ul><p>Em uma falha, diga ao MJ o que você esperava encontrar, ele vai te explicar como este lugar é diferente!</p>"
 		},
 		"Out of Uniform": {
-			"name": "À Paisana"
+			"name": "À Paisana",
+			"description": "<p>Quando você se disfarçar ou alterar sua aparência para fazer com que uma comunidade acredite que você na verdade é duas pessoas diferentes, role com <span class=\"skill-name\">Criatividade</span>. Em um sucesso, pessoas que não te conhecem muito bem não pensarão numa conexão entre as duas identidades. Em um 7-9 essa é a última vez que você conseguirá usar esse truque sem que te percebam. Em uma falha, alguém te confunde quando você faz a troca de uma forma que te causa ainda mais problemas.</p>"
 		},
 		"Overwhelm": {
 			"name": "Sobrepujar",
@@ -243,24 +255,28 @@
 			"description": "Você aprendeu desde cedo que você precisaria fazer o necessário para sobreviver, e isso às vezes significou perder amigos. Agora você está encontrando um novo tipo de equilíbrio: quebrar as regras não é simplesmente algo que afasta as pessoas, é algo que pode ser usado de forma construtiva com seus amigos! Diga ao MJ como você leva seus camaradas a quebrarem todas as regras e realizar algo incrível."
 		},
 		"Roguish Charm": {
-			"name": "Borogodó"
+			"name": "Borogodó",
+			"description": "<p>Quando você <strong>pedir a um PNJ</strong> ou <strong>guiar e confortar</strong> alguém elogiando e empatizando com essa pessoa, marque 1-fadiga para rolar com <span class=\"skill-name\">Criatividade</span> ao invés de <span class=\"skill-name\">Harmony</span>.</p>"
 		},
 		"Slide Around the Blow": {
 			"name": "Dançar Ao Redor dos Golpes",
 			"description": "Você se move perfeitamente, escorregando para escapar dos golpes e fazendo com que o oponente mantenha a atenção em você. Um oponente com o qual você está engajado precisa se manter engajado com você e só pode usar técnicas contra você na próxima troca. Se nenhum oponente estiver engajado com você, você pode deslizar pela luta para engajar um novo oponente (nenhum oponente pode marcar fadiga para impedir esse movimento)."
 		},
 		"Slippery Eel-Hound": {
-			"name": "Peixe-Cão Ensobado"
+			"name": "Peixe-Cão Ensobado",
+			"description": "<p>Quando você <strong>defende e manobrar</strong> e escolher Tomar uma Posição para escapar de uma cena, os oponentes precisam gastar um adicional de 2-fadiga para impedir seu movimento e você pode levar quaisquer aliados, que estejam ao seu alcance, com você nessa retirada.</p>"
 		},
 		"Squad Leader": {
-			"name": "Líder de Esquadrão"
+			"name": "Líder de Esquadrão",
+			"description": "<p>Você foi o líder de um grupo de em torno de 10 guerreiros bem treinados de uma tradição nobre e respeitada.</p><p><strong>Qual é o lugar que sua equipe chama de lar?</strong></p><p>_______________________________</p><p><strong>Quais são as qualidades mais famosas da sua equipe?</strong> (escolha até 3):</p><p><em>nossas armas, nosso estilo de luta, nosso grito de guerra, nossos costumes, nossas lendas, nosso propósito.</em></p><p><strong>O que nossa equipe valoriza?</strong> (escolha 2):</p><p><em>Excelência, Justiça, Dever, Misericórdia, Tradição, Proteção.</em></p><p>Apesar de ser o líder, você escolheu viajar com seus novos camaradas por enquanto, até que tenha atingido o propósito desse grupo. Escolha onde seu time está durante sua ausência:</p><p><strong>Choose where your team is without you:</strong></p><p><em>protegendo o lar da equipe enquanto você está longe; protegendo uma figura poderosa; temporariamente separada ou exilada; treinando e se preparando para algo importante; viajando e fazendo trabalhos dignos dentro de seu escopo; escoltando viajantes importantes; parados em um local de grande importância; realizando deveres tradicionais ou cerimoniais.</em></p><p>Dentro de qualquer grupo, você faz um papel tanto sutil quanto evidente, às vezes liderando o time, às vezes ajudando a mantê-lo unido. Você ganha Time por meio do seu estilo de liderança, e gasta Time por meio do seu estilo de apoio. Ao fim de cada sessão, você pode mudar 1 estilo de liderança e 1 estilo de apoio.</p><p>Escolha 2 estilos de liderança</p><p><strong>Ganhe 1-Time quando…</strong></p><ul><li><strong>Firme</strong>: …você critica abertamente <strong>um camarada para assumir seu princípio.</strong></li><li><strong>Inspirador</strong>: …você <strong>assume o seu princípio </strong>e rola um sucesso.</li><li><strong>Diplomático</strong>: …Você <strong>pede para um PNJ</strong> ajudar e rola um 10+.</li><li><strong>Empático</strong>: …você <strong>guia e conforta</strong> um camarada e ele se abre com você.</li><li><strong>Orientador</strong>: …Você <strong>avalia uma situação</strong> e dá a um camarada instruções baseadas nas respostas.</li><li><strong>Insuperável</strong>: …você rola um sucesso em <strong>resistir à mudança de equilíbrio</strong> ou <strong>negar uma crítica.</strong></li></ul><p>Escolha 2 estilos de apoio.</p><p><strong>Gaste 1-Time quando...</strong></p><ul><li><strong>Confortador</strong>: …...num momento calmo, você passa tempo conversando no um a um com um camarada para remover uma condição dele.</li><li><strong>Revigorante</strong>: …você incita um companheiro a agir num momento de tensão e remove 2-fadiga dele.</li><li><strong>Defensor</strong>: …você se coloca ao alcance de um camarada no combate para remover um status negativo dele.</li><li><strong>Potencializador</strong>: …você ajuda outro camarada para dar a ele +1 em uma rolagem, após a rolagem.</li><li><strong>Encorajador</strong>: …você incentiva publicamente que um amigo <strong>assuma seu princípio</strong> para mudar o equilíbrio dele em direção a esse princípio.</li><li><strong>Trédulo</strong>: …você incentiva publicamente que um amigo <strong>resista à mudança de equilíbrio</strong> para dar +2 a ele, após a rolagem.</li></ul>"
 		},
 		"Stand and Fight!": {
 			"name": "Vem pra Porrada!",
 			"description": "<p>Quando você <strong>provocar um PNJ para fazê-lo te atacar</strong>, role com <span class=\"skill-name\">Paixão</span>. Em um sucesso, ele virá para cima de você. Em um 10+ você está pronto para ele. Remova uma condição ou fique Preparado. Em uma falha, eles ganham vantagem por causa da sua provocação e atacam de uma forma inesperada.</p>"
 		},
 		"Steady Stance": {
-			"name": "Postura Firme"
+			"name": "Postura Firme",
+			"description": "<p>Assuma uma postura firme, sólida. Quaisquer oponentes engajados com você que escolham <strong>avançar e atacar</strong> nessa troca precisam marcar 1-fadiga. Negue a primeira condição ou status negativo infligido a você nessa troca. Se nenhuma condição ou status negativo for infligido a você nessa troca, se torne Empoderado na próxima troca.</p>"
 		},
 		"Straight Shooter": {
 			"name": "Fala na Cara",
@@ -275,7 +291,8 @@
 			"description": "Você pode nunca escapar do legado da sua família, mas o equilíbrio te permite aprender com eles sem deixar que definam quem você é. Você usa um recurso da sua família para criar uma solução inovadora para um problema que parecia insolúvel, sem jamais esquecer quem você é diante do perigo. Diga ao MJ como você ultrapassa obstáculos que pareciam intransponíveis e salva o dia."
 		},
 		"Surprising Entrance": {
-			"name": "Aparição Surpresa"
+			"name": "Aparição Surpresa",
+			"description": "<p>Quando você <strong>enganar</strong> alguém ao usar suas habilidades para desaparecer e reaparecer em outro lugar na mesma cena, role com <span class=\"skill-name\">Foco</span> ao invés de <span class=\"skill-name\">Criatividade</span>.</p>"
 		},
 		"Suspicious Mind": {
 			"name": "Mente Desconfiada",
@@ -294,7 +311,8 @@
 			"description": "<p>Quando você <strong>espezinhar alguém verbalmente</strong> e conseguir achar um ponto onde dói, role com <span class=\"skill-name\">Foco</span>. Em um sucesso, faça uma pergunta. Em um 7-9, o alvo também faz uma pergunta a você:</p>\n<ul>\n<li>Qual é o seu princípio?</li>\n<li>O que você precisa provar para o mundo?</li>\n<li>O que certamente conseguiria te abalar?</li>\n<li>Com quem você importa mais do que deixa transparecer?</li>\n</ul>\n<p>Quem mentir ou se calar marca 2-fadiga. Em uma falha, seu ataque falho te deixa exposto; o alvo pode te fazer uma pergunta da lista e você deve responder de forma honesta.</p>"
 		},
 		"Taking Care of Business": {
-			"name": "Deixem Comigo, Eu Dou Conta"
+			"name": "Deixem Comigo, Eu Dou Conta",
+			"description": "<p>Quando você <strong>perder seu equilíbrio</strong> numa batalha, ao invés de escolher uma das opções normais, você pode escolher se sacrificar pelos seus camaradas. Se você fizer isso, seus camaradas terão uma chance escapar sem problemas, e você será incapacitado (e possivelmente capturado). Você também escolhe 1 opção:</p><ul><li>Deixar uma pista que seus camaradas possam seguir;</li><li>Jogar um objeto vulnerável para seus camaradas;</li><li>Provocar um oponente, mudando o equilíbrio dele duas vezes.</li></ul>"
 		},
 		"The Adamant": {
 			"name": "O Inflexível",
@@ -350,7 +368,9 @@
 			"description": "Quando você tomar uma posição, os oponentes precisam marcar 2-fadiga para impedir esse seu movimento."
 		},
 		"The Successor": {
-			"name": "O Herdeiro"
+			"name": "O Herdeiro",
+			"topTrack": "Tradição",
+			"bottomTrack": "Progresso"
 		},
 		"This Was a Victory": {
 			"name": "Isso Foi uma Vitória",
@@ -365,10 +385,12 @@
 			"description": "<p>Quando estiver engajado com um oponente grande e poderoso, marque fadiga para <strong>avançar e atacar</strong> com <span class=\"skill-name\">Foco</span> ao invés de <span class=\"skill-name\">Paixão</span>. Se você fizer isso, você fica <em>Preparado</em>, e pode escolher usar Retaliar como se fosse uma técnica de avançar e atacar.</p>"
 		},
 		"Wait and Listen": {
-			"name": "Esperar e Ouvir"
+			"name": "Esperar e Ouvir",
+			"description": "<p>Quando você <strong>avaliar uma situação</strong> e usar algum  tempo para usar suas habilidades extraordinárias para absorver informações mais profundas ou escondidas, marque 1-fadiga, role com <span class=\"skill-name\">Foco</span> ao invés de <span class=\"skill-name\">Criatividade</span>, e se torne <em>Preparado</em>.</p>"
 		},
 		"Walk This Way": {
-			"name": "Vem Por Aqui"
+			"name": "Vem Por Aqui",
+			"description": "<p>Quando você altera a aparência, disfarça e/ou orienta seus amigos para se encaixarem em um público específico pertencente a um de seus círculos sociais, role com <span class=\"skill-name\">Criatividade</span>. Em um 10+, sua performance é impecável e você ganha acesso a qualquer que seja o lugar que quiser se encaixar, e atrai poucas suspeitas. Em um 7-9, você engana quase todo mundo — há só um guarda ou porteiro que te faz perguntas ou tenta te obstruir. Em uma falha, seu único jeito de conseguir o acesso que você desejava é se um de seus amigos se colocar numa situação desconfortável, perigosa ou chamativa.</p>"
 		},
 		"Wall of Perfection": {
 			"name": "Muralha Perfeita",
@@ -399,7 +421,8 @@
 			"description": "Quando você analisar o plano de um PNJ para fazer algo, role com Foco. Em um sucesso, o MJ te diz como você pode aumentar as chances de sucesso de forma drástica; faça isso, e ele certamente vai se dar bem. Em um 7-9, os problemas inerentes ao plano são grandes; o PNJ vai resistir em fazer as mudanças necessárias. Em uma falha, algo sobre o plano te coloca num turbilhão; o MJ te diz qual o perigo óbvio que o PNJ está ignorando... ou o que ele está escondendo de você."
 		},
 		"You're Not My Master!": {
-			"name": "Você Não Manda Em Mim!"
+			"name": "Você Não Manda Em Mim!",
+			"description": "<p>Quando você <strong>resistir a um PNJ mudando seu equilíbrio</strong>, role +2 ao invés de +zero.</p>"
 		},
 		"Your Rules Stink": {
 			"name": "Suas Regras São Baboseira",
