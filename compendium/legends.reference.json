@@ -1,5 +1,8 @@
 {
 	"label": "Apoio",
+	"mapping": {
+		"text": "pages.description"
+	},
 	"entries": {
 		"GM Reference": {
 			"name": "Apoio Para MJ"
