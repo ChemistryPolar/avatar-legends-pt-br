@@ -43,10 +43,12 @@
 			"name": "Maus Hábitos"
 		},
 		"Badge of Authority": {
-			"name": "Insígnia de Autoridade"
+			"name": "Insígnia de Autoridade",
+			"description": "<p>Você tem um distintivo ou outro símbolo de autoridade vindo de um dos seus antecedentes, algo que fazcom que as pessoas te ouçam, ou talvez até te admirem ou respeitem. Quando você <strong>der a um PNJ uma ordem que se baseia na autoridade</strong> e reconhecimento dele nisso, role com <span class=\"skill-name\">Paixão</span>. Num sucesso, eles fazem o que você diz. Em um 7-9, escolha uma das opções:</p><ul><li>Eles fazem, mas com pouca vontade;</li><li>Eles dizem que precisam de algo antes de fazer o pedido;</li><li>Eles fazem, mas precisam checar com seus superiores.</li></ul><p>Numa falha, a autoridade que você carrega não os convence, eles fazem o que quiserem, e você ganha -1 adiante contra eles.</p>"
 		},
 		"Best Friend": {
-			"name": "Melhor Amigo"
+			"name": "Melhor Amigo",
+			"description": "<p>Seu melhor amigo é pequeno, peludinho e confiável. Diferente de todos os outros relacionamentos, esse é simples e verdadeiro. Você pode entender e se comunicar com seu pequeno camarada e ele pode implicar com você de quando em quando, mas sempre estará lá quando você precisar de verdade. Sempre que seu parça puder te ajudar a <strong>tentar a sorte</strong>,  marque fadiga para rolar com <span class=\"skill-name\">Criatividade</span> em vez de <span class=\"skill-name\">Paixão</span>. Se seu bichinho se machucar, marque uma condição</p>"
 		},
 		"Black Koala-Sheep": {
 			"name": "Coala-Ovelha Negra"
@@ -79,7 +81,8 @@
 			"name": "Sondar as Redondezas"
 		},
 		"Catch a Liar": {
-			"name": "Desmascarar um Mentiroso"
+			"name": "Desmascarar um Mentiroso",
+			"description": "<p>Quando você suspeitar de alguém, anote seu nome</p><p>aqui: _____</p><p>Você não pode escrever outro nome até que tenha feito essa primeira pessoa admitir sua culpa e atos diante de outras pessoas, ou até você desistir de desvendar os seus segredos.</p><p>Quando ele admitir sua culpa e atos diante de uma audiência, tire o nome dele desse movimento. Quando você desistir de descobrir os segredos dele, pode marcar uma condição para tirar o nome desse movimento.</p><p>Quando você expõe a pessoa por suas mentiras e atos, remova toda sua fadiga e até duas condições. Quando você tentar intimidar para que ela admita seus crimes reais usando evidências, você pode eliminar uma opção adicional da lista em qualquer sucesso antes que ela escolha.</p>"
 		},
 		"Challenge": {
 			"name": "Desafiar"
@@ -88,7 +91,8 @@
 			"name": "Estudar o Inimigo"
 		},
 		"Concentration": {
-			"name": "Concentração"
+			"name": "Concentração",
+			"description": "<p>Adiciona +1 à sua condição <span class=\"skill-name\">Foco</span> (máximo de +3).</p>"
 		},
 		"Disorient": {
 			"name": "Desorientar",
@@ -99,7 +103,8 @@
 			"description": "Entre no caminho de golpes que atingiriam seus aliados; quando qualquer aliado for ser atingido nessa troca, você pode receber o ataque por ele. Se você usar Retaliar nessa troca, cause 1-fadiga adicional a cada uso."
 		},
 		"Driven By Justice": {
-			"name": "Movido por Justiça"
+			"name": "Movido por Justiça",
+			"description": "<p>Adiciona +1 à sua condição <span class=\"skill-name\">Paixão</span> (máximo de +3).</p>"
 		},
 		"Extraordinary Skill": {
 			"name": "Habilidade Extraordinária"
@@ -111,7 +116,8 @@
 			"name": "Na Força do Ódio"
 		},
 		"Furrowed Brow": {
-			"name": "Franzir a Testa"
+			"name": "Franzir a Testa",
+			"description": "<p>Adiciona +1 à sua condição <span class=\"skill-name\">Foco</span> (máximo de +3).</p>"
 		},
 		"Guardian GQ": {
 			"name": "Guardião PdC",
@@ -130,10 +136,12 @@
 			"description": "Você pode derrubar todas as paredes do mundo, mas o equilíbrio não é encontrado na conquista e destruição. Você sabe que algumas paredes têm de ficar de pé para manter as pessoas seguras. Diga ao MJ como você se coloca no caminho de uma ameaça inescapável para proteger algo ou alguém do perigo."
 		},
 		"Here's the Plan": {
-			"name": "Esse é o Plano"
+			"name": "Esse é o Plano",
+			"description": "<p>Quando você se comprometer a executar um plano que você propôs ao grupo, role com <span class=\"skill-name\">Criatividade</span>. Pegue -1 para cada um dos camaradas que não estiver de acordo. Em um 10+, guarde 2. Em um 7-9, guarde 1. Você pode gastar esses guardados numa base de 1 para 1 enquanto o plano está sendo executado para superar ou desviar de umobstáculo, criar uma vantagem ou neutralizar um perigo. Se algum dos seus companheiros te abandonar quando o plano estiver em curso, você precisa marcar uma condição. Em uma falha, guarde 1, mas o plano azeda quando vocês encontram uma oposição surpreendente.</p>"
 		},
 		"I Don't Hate You": {
-			"name": "Eu Não te Odeio"
+			"name": "Eu Não te Odeio",
+			"description": "<p>Quando você <strong>guiar e confortar</strong> alguém de uma forma desconfortável, sem jeito ou apenas porque acha que deve fazer isso, role com <span class=\"skill-name\">Paixão</span> ao invés de <span class=\"skill-name\">Harmonia</span> se você marcar Inseguro ou já tiver Inseguro marcada.</p>"
 		},
 		"Icon GQ": {
 			"name": "Ícone PdC",
@@ -161,7 +169,8 @@
 			"name": "Julgando um Rival"
 		},
 		"Legacy of Excellence": {
-			"name": "Legado de Excelência"
+			"name": "Legado de Excelência",
+			"description": "<div>\n<div>Você se dedicou a realizar grandes e empolgantes feitos e se tornar digno da confiança que as pessoas colocam em você. Escolha quatro motivações para marcar no início do jogo. Quando você realizar uma motivação, risque ela e marque crescimento ou remova uma condição. Quando suas quatro motivações forem riscadas, escolha e marque quatro novas. Quando todas as motivações forem riscadas, mude de manual ou aceite uma posição de grande responsabilidade e se aposente da vida de aventuras.</div>\n<br>\n<div>[] Liderar seus companheiros numa batalha com sucesso;</div>\n<div>[] Entregar sua afeição a alguém que a merece;</div>\n<div>[] Começar uma briga de verdade com um mestre perigoso;</div>\n<div>[] Fazer jus à orientação de um amigo ou mentor;</div>\n<div>[] Lidar com uma ameaça sozinho;</div>\n<div>[] Abertamente se impor a uma figura de autoridade;</div>\n<div>[] Salvar a vida de um amigo;</div>\n<div>[] Conseguir uma nova roupa chique;</div>\n<div>[] Ganhar o respeito de um adulto que você admira;</div>\n<div>[] Criticar abertamente um amigo por ações indignas;</div>\n<div>[] Formar um relacionamento forte com um novo mestre;</div>\n<div>[] Parar a luta com palavras calmas;</div>\n<div>[] Sacrificar seu orgulho ou amor por um bem maior;</div>\n<div>[] Defender um lugar desabitado de ameaças atrozes;</div>\n<div>[] Encarar alguém que não te respeita;</div>\n<div>[] Fazer com que um amigo assuma um princípio que ele tenha negligenciado;</div>\n<div>[] Perdoar ou mostrar misericórdia para uma pessoa perigosa;</div>\n<div>[] Enfrentar alguém que está abusando de seu poder;</div>\n<div>[] Se tornar amigo de — ou domar — uma besta perigosa ou criatura rara;</div>\n<div>[] Realizar uma manobra ridícula e ousada.</div>\n</div>"
 		},
 		"Martyr Complex": {
 			"name": "Complexo de Mártyr",
@@ -171,7 +180,8 @@
 			"name": "Nunca Dar As Costas"
 		},
 		"No Time For Feelings": {
-			"name": "Sem Tempo Para Sentimentos"
+			"name": "Sem Tempo Para Sentimentos",
+			"description": "<p>Quando você tiver um número de condições marcadas igual ou menor que seu princípio mais alto, marque fadiga para esconder seus sentimentos pelo resto da cena e ignorar as penalidades de condições até a cena acabar. Quando você <strong>resistir a uma mudança de equilíbrio feita por um PNJ</strong>, marque uma condição para rolar com o número de condiçõesmarcadas (no máximo +4). Você não poderá escolher remover uma condição ao provar imediatamente queessa pessoa está errada.</p>"
 		},
 		"Not Done Yet!": {
 			"name": "Ainda Não Acabou!",
@@ -196,7 +206,8 @@
 			"description": "Você se define como parte de um grupo maior e, nesse momento, o grupo se define com base em você. Você os mobiliza, se move em meio a eles dizendo as coisas certas e dando a orientação adequada para que seu grupo trabalhe de forma coesa e confiante. Diga ao MJ o que você diz a cada um dos seus camaradas para que, nesse momento, vocês superem um desafio imponente."
 		},
 		"Pinpoint Aim": {
-			"name": "Mira Precisa"
+			"name": "Mira Precisa",
+			"description": "<p>Espere o momento certo para desferir um ataque no ângulo perfeito; torne-se <em>Preparado</em>. Na próxima troca, se você <strong>avançar e atacar</strong>, role com <span class=\"skill-name\">Foco</span> ou <span class=\"skill-name\">Paixão</span>, à sua escolha. Se você usar Golpear, não precisará marcar fadiga para escolher o que você inflige.</p>"
 		},
 		"Prodigy GQ": {
 			"name": "Prodígio PdC",
@@ -207,7 +218,8 @@
 			"description": "Você sempre teve dificuldade de confiar em outras pessoas, parece que isso te faz sentir fraco. Mas nesse momento, sua conexão com os outros é a maior fonte de sua força. Você invoca seu comprometimento com o grupo para te impulsionar e ir além dos seus limites e fazer o impossível. Diga ao MJ como você realiza um ato que ninguém nunca tinha feito para salvar seus amigos."
 		},
 		"Protector's Burden": {
-			"name": "Fardo do Protetor"
+			"name": "Fardo do Protetor",
+			"description": "<p>Você se responsabiliza por proteger as pessoas ao seu redor, mas há alguém em particular que você precisa manter seguro.</p><p><strong>Nomeie seu protegido</strong> (escolha um PJ para começar): ___</p><p>Quando eles marcarem uma condição diante de você, marque fadiga ou uma condição. Seu protegido pode sempre<strong> te criticar para sustentar seu princípio </strong>— sem precisar mudar o próprio equilíbrio para longe do centro</p><p>Ao começo de cada sessão, role acrescentando +1 para cada sim:</p><ul><li>Você acredita que seu protegido te ouve na maior parte do tempo?</li><li>Você o protegeu recentemente ou o ajudou com algum problema?</li><li>Existe uma ameaça iminente para seu protegido que você saiba a respeito?</li></ul><p>Em um 7-9, guarde 1. Em um 10+, guarde 2. A qualquer momento, gaste um dos guardados para:</p><ul><li>Usar um 10+ para qualquer movimento para defender ou proteger seu protegido</li><li>Encontrá-lo mesmo que ele esteja escondido ou te evitando</li><li>Descobrir o que ele está aprontando sem que ele saiba</li></ul><p>Em uma falha, guarde 1, mas... vocês estão se separando e seguindo caminhos distintos. Ao fim da sessão, escolha uma das opções abaixo:</p><ul><li>Decida que você é a única pessoa que pode mantê-lo em segurança, mude seu equilíbrio duas vezes em direção à Autoconfiança e mantenha ele como seu protegido.</li><li>Decida que ele pode lidar com a vida sem a sua proteção; mude seu equilíbrio duas vezes rumo à Confiança e mude seu protegido.</li></ul><p>Você também pode mudar seu protegido se ele sair do jogo ou não estiver mais presente por alguma razão. Quando você mudar seu protegido, você pode escolher um PNJ (se o MJ consentir).</p>"
 		},
 		"Punch Where It Matters": {
 			"name": "Bater Onde Dói"
@@ -240,7 +252,8 @@
 			"name": "Postura Firme"
 		},
 		"Straight Shooter": {
-			"name": "Fala na Cara"
+			"name": "Fala na Cara",
+			"description": "<p>Quando você contar a um PNJ a verdade nua e crua sobre o que você acha dele e de seus planos, role com <span class=\"skill-name\">Foco</span>.  Em um sucesso,ele acha sua sinceridade positiva e responde uma questão não comprometedora ou te faz um pequeno favor. Em um 7-9 ele também te diz de forma honesta o que acha de você. Marque uma condição. Numa falha, você é honesto até demais— e deixa o PNJ furioso ou realmente magoado.</p>"
 		},
 		"Successor GQ": {
 			"name": "Herdeiro PdC",
@@ -254,7 +267,8 @@
 			"name": "Aparição Surpresa"
 		},
 		"Suspicious Mind": {
-			"name": "Mente Desconfiada"
+			"name": "Mente Desconfiada",
+			"description": "<p>Quando você <strong>observar uma pessoa cuidadosamente</strong>, role com <span class=\"skill-name\">Foco</span>. Em um 7-9, guarde 1. guarde 2. Gaste seu guardado numa base de 1 para 1 para fazer perguntas ao jogador que interpreta aquele personagem enquanto você o observa ou interage com ele; ele deve responder honestamente.</p><ul><li>Você está falando sério?</li><li>O que você está sentido, de verdade?</li><li>O que você realmente quer agora?</li><li>O que está te preocupando?</li><li>O que você está pretendendo fazer?</li></ul>"
 		},
 		"Sweep the Leg": {
 			"name": "Passar a Perna",
@@ -265,7 +279,8 @@
 			"description": "Enfrente o mesmo oponente junto de um aliado; escolha um oponente engajado e um aliado. Dobre qualquer fadiga, condições ou mudanças de equilíbrio que o aliado infligir naquele oponente."
 		},
 		"Takes One to Know One": {
-			"name": "Os Iguais se Reconhecem"
+			"name": "Os Iguais se Reconhecem",
+			"description": "<p>Quando você <strong>espezinhar alguém verbalmente</strong> e conseguir achar um ponto onde dói, role com <span class=\"skill-name\">Foco</span>. Em um sucesso, faça uma pergunta. Em um 7-9, o alvo também faz uma pergunta a você:</p>\n<ul>\n<li>Qual é o seu princípio?</li>\n<li>O que você precisa provar para o mundo?</li>\n<li>O que certamente conseguiria te abalar?</li>\n<li>Com quem você importa mais do que deixa transparecer?</li>\n</ul>\n<p>Quem mentir ou se calar marca 2-fadiga. Em uma falha, seu ataque falho te deixa exposto; o alvo pode te fazer uma pergunta da lista e você deve responder de forma honesta.</p>"
 		},
 		"Taking Care of Business": {
 			"name": "Deixem Comigo, Eu Dou Conta"
@@ -327,10 +342,12 @@
 			"name": "O Herdeiro"
 		},
 		"This Was a Victory": {
-			"name": "Isso Foi uma Vitória"
+			"name": "Isso Foi uma Vitória",
+			"description": "<p>Quando você revelar que sabotou um prédio, dispositivo ou veículo no momento em que se tornar relevante, marque fadiga e role com <span class=\"skill-name\">Paixão</span>. Em um sucesso, seu trabalho dá resultado e cria uma oportunidade para você e seus aliados bem na hora certa. Em um 7-9, a oportunidade é temporária e você deve agir rápido para escapar das consequências. Em uma falha, sua ação foi imprudente e algo ou alguém que você ama acaba danificado no processo.</p>"
 		},
 		"Understanding Mien": {
-			"name": "Semblante Compreensivo"
+			"name": "Semblante Compreensivo",
+			"description": "<p>Adiciona +1 à sua condição <span class=\"skill-name\">Harmonia</span> (máximo de +3).</p>"
 		},
 		"Use Their Momentum": {
 			"name": "Vai no Embalo"
@@ -349,7 +366,8 @@
 			"name": "Ninguém me Segura"
 		},
 		"Way of the Future": {
-			"name": "Boas-Vindas Ao Futuro"
+			"name": "Boas-Vindas Ao Futuro",
+			"description": "<p>Adiciona +1 à sua condição <span class=\"skill-name\">Criatividade</span> (máximo de +3).</p>"
 		},
 		"Whatever I Can": {
 			"name": "Tudo Que Eu Puder"
