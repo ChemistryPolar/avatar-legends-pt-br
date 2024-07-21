@@ -62,20 +62,24 @@
 			"description": "Os maiores heróis da sua era podem ter confiança aos montes, mas o equilíbrio não está em perseguir a grandeza apenas em nome da grandeza. Você encontra uma forma de estar junto de seus companheiros como ninguém mais poderia. Diga ao MJ como você derruba um inimigo ou obstáculo para proteger seus amigos de uma ameaça enquanto se mostra como a melhor versão de você."
 		},
 		"Bonzu Pippinpaddleopsicopolis… the Third": {
-			"name": "Bonzu Pippinpaddleopsicopolis… Terceiro"
+			"name": "Bonzu Pippinpaddleopsicopolis… Terceiro",
+			"description": "<p>Quando você <strong>engana um PNJ</strong> ao assumir um disfarce bobo ou identidade falsa, marque Inseguro para tratar sua rolagem como se fosse um 12+. Se Inseguro já estiver marcado, marque 2-fadiga no lugar.</p>"
 		},
 		"Break": {
 			"name": "Quebrar",
 			"description": "Mire o equipamento vulnerável de um oponente; quebre ou inutilize ele, o que pode infligir ou anular um status apropriado."
 		},
 		"Bringing Them Down": {
-			"name": "Mandar a Nocaute"
+			"name": "Mandar a Nocaute",
+			"description": "<p>Você sempre tem um adversário, alguém que representa tudo aquilo que você quer destruir — tirania, desigualdade, guerra —, essa pessoa representa algum desses conceitos para você. Esse adversário é significativo e poderoso — alguém que merece receber toda a força que você usará nele.</p><p><strong>Dê o nome de seu adversário: _____________________________</strong></p><p>Escolha uma meta para realizar com seu adversário:</p><ul><li>Capturar;</li><li>Descredibilizar;</li><li>Expor;</li><li>Conter;</li><li>Exilar;</li><li>Tirar do poder.</li></ul><p>Pegue -1 constante para <strong>pedir, enganar ou guiar e apoiar</strong> seu adversário.</p><h3>Trocando seu adversário</h3><p>Você pode trocar de adversário a qualquer momento que marcar uma condição, ou ao fim de cada sessão. Quando o fizer, escolha uma meta apropriada, e o MJ muda seu equilíbrio duas vezes para se ajustar a seu novo adversário e sua nova meta.</p><p>Quando você for bem-sucedido em sua meta de derrotar seu adversário, realize um avanço de crescimento e escolha um novo adversário.</p><h3>Lutando contra seu adversário</h3><p>Quando você entrar em uma luta com seu adversário, remova toda a fadiga e fique <em>Inspirado</em>. Quando escolher qualquer abordagem de combate contra seu adversário, você pode marcar fadiga para rolar com condições marcadas ao invés de sua capacidade normal.</p>"
 		},
 		"Burden & Tradition": {
-			"name": "O Fardo da Tradição"
+			"name": "O Fardo da Tradição",
+			"description": "<p>Você é um símbolo do fardo de sua tradição. Espera-se que você  seja o representante mais exemplar de sua cultura. Você foi treinado desde a infância e carrega todo o peso da história. Te disseram que você era vital para o mundo inteiro.</p><p>Escolha <strong>3 responsabilidades</strong> do fardo de sua tradição que esperam que você assuma:</p><p><em>Proteger a humanidade de desastres naturais e espíritos sombrios; destruir criaturas perigosas; derrubar tiranos; servir e defender governantes legítimos; realizar rituais; dar auxílio e acalento às vítimas de infortúnios; buscar histórias e artefatos perdidos; proteger a natureza de ameaças e da destruição; salvaguardar registros e relíquias.</em></p><p>Escolha <strong>3 proibições</strong> do fardo de sua tradição:</p><p><em>Nunca recusar um pedido sincero de ajuda; nunca expressar grandes emoções; nunca fugir de uma luta; nunca começar uma luta; nunca negar conhecimento ou a verdade a alguém; nunca usar seu papel para ganhos mesquinhos ou lucro; nunca intervir numa comunidade sem ser convidado; nunca deixar de perdoar; nunca roubar ou trapacear.</em></p><h3>Assumindo seu papel</h3><p>Quando você assume seu Papel através das responsabilidades de seu fardo da tradição, mesmo frente à oposição ou perigo, mude seu equilíbrio em direção a Papel em vez de marcar fadiga, e remova fadiga igual ao número de seu Papel (mínimo zero-fadiga).</p><h3>Quebrando a Tradição</h3><p>Quando você quebra uma proibição abertamente, marque uma condição, mude seu equilíbrio duas vezes em direção à Liberdade e marque crescimento.</p><h3>Fim de sessão</h3><p>Ao final de cada sessão, responda a estas perguntas, além das perguntas de crescimento padrão.</p><ul><li><strong>Eu dei conta de uma responsabilidade? </strong>Se sim, mude o equilíbrio rumo a Papel e remova uma condição.</li><li><strong>Eu violei alguma proibição? </strong>Se sim, mude o equilíbrio em direção à Liberdade. Sublinhe uma proibição que você violou durante a sessão. Se já estiver sublinhada, risque-a, não significa nada para você violar essa novamente.</li></ul>"
 		},
 		"Can't Knock Me Down": {
-			"name": "Não Pode Me Derrubar"
+			"name": "Não Pode Me Derrubar",
+			"description": "<p>Quando você estiver <strong>engajado em combate contra uma oposição superior e se recusar a recuar ou fugir</strong>, role com <span class=\"skill-name\">Harmonia</span> pelo resto da batalha sempre que você <strong>defender e manobrar</strong>; você não poderá escolher escapar da cena usando Tomar uma Posição pelo resto da luta.</p>"
 		},
 		"Casing the Joint": {
 			"name": "Sondar as Redondezas"
@@ -88,7 +92,8 @@
 			"name": "Desafiar"
 		},
 		"Comprehend Your Foe": {
-			"name": "Estudar o Inimigo"
+			"name": "Estudar o Inimigo",
+			"description": "<p>Quando você <strong>defender e manobrar</strong> contra um oponente cujo princípio de equilíbrio você conhece, você pode marcar fadiga para rolar com <span class=\"skill-name\">Criatividade</span> ao invés de <span class=\"skill-name\">Foco</span>.</p>"
 		},
 		"Concentration": {
 			"name": "Concentração",
@@ -113,7 +118,8 @@
 			"name": "Lutar é Como Dançar"
 		},
 		"Fueled By Anger": {
-			"name": "Na Força do Ódio"
+			"name": "Na Força do Ódio",
+			"description": "<p>Marque Enraivecido para usar um ataque adicional ou técnica dominada quando você <strong>avançar e atacar</strong>, mesmo numa falha. Quando enraivecido estiver marcado, você ganha +1 constante para <strong>Intimidar</strong> outros.</p>"
 		},
 		"Furrowed Brow": {
 			"name": "Franzir a Testa",
@@ -163,7 +169,8 @@
 			"name": "É o Melhor Que Você Consegue?"
 		},
 		"It Doesn't Belong to You!": {
-			"name": "Isso Não é Seu!"
+			"name": "Isso Não é Seu!",
+			"description": "<p>Quando você <strong>secretamente pegar algo que é de alguém que não merece</strong>, role com <span class=\"skill-name\">Harmonia</span>. Em um sucesso, você rouba algo da pessoa (à sua escolha) sem que ela note que você pegou. Em um 7-9, a coisa que você pegou não é exatamente o que você achou que fosse; o MJ vai te explicar melhor. Em uma falha, você pega o que queria, mas a pessoa nota — e te persegue — assim que você deixa a cena.</p>"
 		},
 		"Judging a Rival": {
 			"name": "Julgando um Rival"
@@ -177,7 +184,8 @@
 			"description": "Quando você tiver um total de 8 condições marcadas, o princípio no mais alto e a fadiga marcada, ganhe +1 constante para todos os movimentos."
 		},
 		"Never Turn My Back": {
-			"name": "Nunca Dar As Costas"
+			"name": "Nunca Dar As Costas",
+			"description": "<p>Você sabe o que é tristeza e luto. Já conhece a dor da perda. Mas você sabe que o mundo pode se tornar um lugar melhor. E nada acontece sem que boas pessoas lutem pelo que é certo...</p><p>Você tem um código — escolha 3 ideais da lista para defini-lo:</p><ul><li>Sempre falar a verdade;</li><li>Sempre confrontar valentões;</li><li>Sempre manter suas promessas;</li><li>Nunca dar o primeiro golpe;</li><li>Nunca negar um pedido de ajuda;</li><li>Nunca deixar um amigo para trás.</li></ul><p>Quando você sustenta seus ideais a todo custo, alguém que testemunhou (ou ouviu falar de) seu sacrifício se aproxima para reafirmar sua aliança com o propósito de seu grupo; escreva o nome dessa pessoa em sua lista de aliados abaixo.</p><h3>Aliados</h3><p>Você sempre pode <strong>pedir</strong> algo a esses aliados — eles sempre se importarão com o que você pensa; eles sempre se abrem com você se os <strong>guiar e apoiar</strong>; e você pode <strong>criticá-los para sustentarem seus princípios</strong> como se tivesse rolado um 10+ ao apagar o nome deles da lista de aliados.</p><ul><li>...</li></ul>"
 		},
 		"No Time For Feelings": {
 			"name": "Sem Tempo Para Sentimentos",
@@ -188,14 +196,15 @@
 			"description": "Uma vez por sessão, quando você for incapacitado, mude seu equilíbrio rumo ao centro para se manter em pé por mais uma troca de um conflito. Após essa troca terminar, você fica indefeso, inconsciente ou incapaz de continuar, e volta a estar neutralizado."
 		},
 		"Otter-Penguins, Unagi, and Hot Springs": {
-			"name": "Pinguins-Lontra, Enguais e Fontes Termais"
+			"name": "Pinguins-Lontra, Enguais e Fontes Termais",
+			"description": "<p>Quando você visitar um local habitado que você pode saber a respeito, role com <span class=\"skill-name\">Harmonia</span>. Em um 7-9, faça uma pergunta. Em um 10+, faça 2. PJs que interagem com uma das respostas podem remover 1-fadiga ou marcar conhecimento.</p><ul><li>Qual é o melhor passatempo local?</li><li>O que tem de interessante por perto?</li><li>Quem é a pessoa mais famosa daqui?</li><li>Qual é a tradição mais estimada pela população?</li><li>Qual é a lenda mais interessante que a população conta sobre este lugar?</li></ul><p>Em uma falha, diga ao MJ o que você esperava encontrar, ele vai te explicar como este lugar é diferente!</p>"
 		},
 		"Out of Uniform": {
 			"name": "À Paisana"
 		},
 		"Overwhelm": {
 			"name": "Sobrepujar",
-			"description": "Golpeie com todo seu peso e força; marque 3-fadiga para infligir Zonzo em um oponente engajado."
+			"description": "<p>Golpeie com todo seu peso e força; marque 3-fadiga para infligir <em>Zonzo</em> em um oponente engajado.</p>"
 		},
 		"Pillar GQ": {
 			"name": "Pilar PdC",
@@ -222,7 +231,8 @@
 			"description": "<p>Você se responsabiliza por proteger as pessoas ao seu redor, mas há alguém em particular que você precisa manter seguro.</p><p><strong>Nomeie seu protegido</strong> (escolha um PJ para começar): ___</p><p>Quando eles marcarem uma condição diante de você, marque fadiga ou uma condição. Seu protegido pode sempre<strong> te criticar para sustentar seu princípio </strong>— sem precisar mudar o próprio equilíbrio para longe do centro</p><p>Ao começo de cada sessão, role acrescentando +1 para cada sim:</p><ul><li>Você acredita que seu protegido te ouve na maior parte do tempo?</li><li>Você o protegeu recentemente ou o ajudou com algum problema?</li><li>Existe uma ameaça iminente para seu protegido que você saiba a respeito?</li></ul><p>Em um 7-9, guarde 1. Em um 10+, guarde 2. A qualquer momento, gaste um dos guardados para:</p><ul><li>Usar um 10+ para qualquer movimento para defender ou proteger seu protegido</li><li>Encontrá-lo mesmo que ele esteja escondido ou te evitando</li><li>Descobrir o que ele está aprontando sem que ele saiba</li></ul><p>Em uma falha, guarde 1, mas... vocês estão se separando e seguindo caminhos distintos. Ao fim da sessão, escolha uma das opções abaixo:</p><ul><li>Decida que você é a única pessoa que pode mantê-lo em segurança, mude seu equilíbrio duas vezes em direção à Autoconfiança e mantenha ele como seu protegido.</li><li>Decida que ele pode lidar com a vida sem a sua proteção; mude seu equilíbrio duas vezes rumo à Confiança e mude seu protegido.</li></ul><p>Você também pode mudar seu protegido se ele sair do jogo ou não estiver mais presente por alguma razão. Quando você mudar seu protegido, você pode escolher um PNJ (se o MJ consentir).</p>"
 		},
 		"Punch Where It Matters": {
-			"name": "Bater Onde Dói"
+			"name": "Bater Onde Dói",
+			"description": "<p>Quando você <strong>avaliar uma situação</strong>,você sempre pode perguntar “quem ou o quê, aqui, está mais vulnerável a mim?” mesmo numa falha. Ganhe +1 constante para agir de acordo com a resposta.</p>"
 		},
 		"Rogue GQ": {
 			"name": "Subversivo PdC",
@@ -246,7 +256,8 @@
 			"name": "Líder de Esquadrão"
 		},
 		"Stand and Fight!": {
-			"name": "Vem pra Porrada!"
+			"name": "Vem pra Porrada!",
+			"description": "<p>Quando você <strong>provocar um PNJ para fazê-lo te atacar</strong>, role com <span class=\"skill-name\">Paixão</span>. Em um sucesso, ele virá para cima de você. Em um 10+ você está pronto para ele. Remova uma condição ou fique Preparado. Em uma falha, eles ganham vantagem por causa da sua provocação e atacam de uma forma inesperada.</p>"
 		},
 		"Steady Stance": {
 			"name": "Postura Firme"
@@ -350,7 +361,8 @@
 			"description": "<p>Adiciona +1 à sua condição <span class=\"skill-name\">Harmonia</span> (máximo de +3).</p>"
 		},
 		"Use Their Momentum": {
-			"name": "Vai no Embalo"
+			"name": "Vai no Embalo",
+			"description": "<p>Quando estiver engajado com um oponente grande e poderoso, marque fadiga para <strong>avançar e atacar</strong> com <span class=\"skill-name\">Foco</span> ao invés de <span class=\"skill-name\">Paixão</span>. Se você fizer isso, você fica <em>Preparado</em>, e pode escolher usar Retaliar como se fosse uma técnica de avançar e atacar.</p>"
 		},
 		"Wait and Listen": {
 			"name": "Esperar e Ouvir"
@@ -363,21 +375,24 @@
 			"description": "Cria uma perfeita muralha de defesa ao seu redor e de aliados próximos de você; marque 1-fadiga para bloquear um único ataque direcionado à muralha ou repelir um inimigo que tente penetrar sua muralha."
 		},
 		"Walls Can't Hold Me": {
-			"name": "Ninguém me Segura"
+			"name": "Ninguém me Segura",
+			"description": "<p>Quando você <strong>confiar em suas habilidades e treinamento</strong> para destruir paredes ou outros obstáculos de forma arriscada, role com <span class=\"skill-name\">Paixão</span> ao invés de <span class=\"skill-name\">Foco</span>.</p>"
 		},
 		"Way of the Future": {
 			"name": "Boas-Vindas Ao Futuro",
 			"description": "<p>Adiciona +1 à sua condição <span class=\"skill-name\">Criatividade</span> (máximo de +3).</p>"
 		},
 		"Whatever I Can": {
-			"name": "Tudo Que Eu Puder"
+			"name": "Tudo Que Eu Puder",
+			"description": "<p>Quando<strong> passar algum tempo falando com a população de um lugar sobre os problemas dela</strong>, role com <span class=\"skill-name\">Harmonia</span>. Num sucesso, você ouve a respeito dos problemas mais sérios e significativos que eles têm; o MJ vai te dizer quem isso afeta e qual é a causa. Em um 10+, você pode fazer outra pergunta sobre o problema ou causa, e você ganha +1 constante quando agir com base nessa resposta. Em uma falha, você acaba criando um novo problema com suas perguntas e ideias.</p>"
 		},
 		"Worldly Knowledge": {
 			"name": "Conhecimento Mundial",
 			"description": "Sua criação expandiu seus horizontes, habilidades e contatos. Escolha outro treinamento e outro antecedente."
 		},
 		"Yip Yip!": {
-			"name": "Yip Yip!"
+			"name": "Yip Yip!",
+			"description": "<p>Você tem um companheiro animal grande o bastante para ser montado. Dê nome e escolha a espécie dele:</p><p><em>Bisão voador, cão urso polar, canino enguia, gataré, elefante-mandril, urso-órix, rinoceronte-de-komodo, alce-leão dentes de sabre, javali voador, morsa-iaque, peixepótamo voador.</em></p><ul><li>Quando você luta ao lado de seu companheiro animal, marque 1-fadiga para se tornar Favorecido por uma troca;</li><li>Se algo ferir seu companheiro animal, marque uma condição;</li><li>Quando você e seus amigos viajarem via companheiro animal, todos removem toda a fadiga.</li></ul>"
 		},
 		"You Missed Something": {
 			"name": "Você Esqueceu de Algo",
@@ -387,7 +402,8 @@
 			"name": "Você Não Manda Em Mim!"
 		},
 		"Your Rules Stink": {
-			"name": "Suas Regras São Baboseira"
+			"name": "Suas Regras São Baboseira",
+			"description": "<p>Quando você <strong>enfrentar um adulto ao dizer que as regras dele são idiotas</strong>, role com <span class=\"skill-name\">Paixão</span>. Em um sucesso, ele se surpreenderá com seu argumento e precisará mudar seu equilíbrio ou te oferecer um jeito de prosseguir burlando as regras. Em um 10+, ele terá de fazer ambos. Em uma falha, seus esforços para afetá-los revelam o quanto esse adulto acredita no sistema — marque uma condição porque a resistência dele te deixou sem chão.</p>"
 		}
 	}
 }
