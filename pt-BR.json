@@ -2,8 +2,8 @@
   "legends": {
     "common": {
       "description": "Descrição",
-      "none": "Nome",
-      "to-chat": "Conversar",
+      "none": "Nenhum",
+      "to-chat": "Enviar ao Chat",
       "documentation": "Documentação do Sistema"
     },
     "context-menu": {
@@ -20,7 +20,7 @@
       "conditions": "Condições",
       "moves": "Movimentos",
       "techniques": "Estilo de Luta",
-      "statuses": "Condições",
+      "statuses": "Status",
       "set-value": "Mudar para {value}",
       "player": {
         "about": "Sobre",
@@ -118,7 +118,7 @@
       "new": "Novo Movimento",
       "roll-with": "Rolar com",
       "roll": "Rolar?",
-      "with": "Stat",
+      "with": "Capacidade",
       "category": {
         "label": "Origem",
         "all": "Todos",
