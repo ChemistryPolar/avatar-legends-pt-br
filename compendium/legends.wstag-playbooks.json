@@ -3,7 +3,9 @@
 	"mapping": {
 		"description": "system.description",
 		"topTrack": "system.balance.topTrack",
-		"bottomTrack": "system.balance.bottomTrack"
+		"bottomTrack": "system.balance.bottomTrack",
+		"0": "system.affectedMoves.0.name",
+		"1": "system.affectedMoves.1.name"
 	},
 	"folders": {
 		"The Destined": "O Escolhido",
@@ -13,32 +15,40 @@
 	},
 	"entries": {
 		"Air-Cutting Edge": {
-			"name": "Instintos Afiados"
+			"name": "Instintos Afiados",
+			"description": "<p>Adicone +1 a <span class=\"skill-name\">Foco</span> (para um máximo de +3).</p>"
 		},
 		"An Open Heart": {
-			"name": "Coração Aberto"
+			"name": "Coração Aberto",
+			"description": "<p>Adicione à +1 <span class=\"skill-name\">Harmonia</span> (máximo de +3).</p>"
 		},
 		"Anticipate": {
 			"name": "Antecipar",
 			"description": "Estude um oponente próximo para entender qual deve ser o próximo movimento dele. Declare a abordagem para a qual ele parece estar inclinado. Na próxima troca, esse oponente precisará usar essa abordagem ou marcar uma condição."
 		},
 		"Around Here Somewhere": {
-			"name": "Em Algum Lugar Por Aqui"
+			"name": "Em Algum Lugar Por Aqui",
+			"description": "<p>Quando você buscar ajuda de um velho amigo na área e que você  não vê há algum tempo, diga o nome dessa pessoa e role com <span class=\"skill-name\">Harmonia</span>. . Em um sucesso, você encontra essa pessoa e ela pode ajudá-lo. Em um 7-9, escolha 1. Em um 10+, ele fará ambos.</p><ul><li>Ele não está ocupado com os próprios problemas</li><li>Você não deve a ele um favor ou desculpas</li></ul><p>Em uma falha, seus velhos inimigos também estão à sua procura. O MJ dirá como você sabe que eles estão próximos.</p>"
 		},
 		"As Long As I'm Breathing": {
-			"name": "Enquanto Eu Viver"
+			"name": "Enquanto Eu Viver",
+			"description": "<p>Quando você tentar intimidar alguém para proteger os fracos ou vulneráveis, rola com <span class=\"skill-name\">Harmonia</span> ino lugar de <span class=\"skill-name\">Paixão</span>.</p>"
 		},
 		"Building Bridges": {
-			"name": "Criar Pontes"
+			"name": "Criar Pontes",
+			"description": "<p>Quando você tenta amenizar um conflito imediato entre dois PNJs, lembre-os do que eles têm em comum e role com <span class=\"skill-name\">Harmonia</span>. Em um sucesso, eles se entendem, por hora. Eles não tentarão continuar o conflito até que uma influência externa o reviva ou que o tempo passe (um dia ou mais). Em um 10+, você terá uma oportunidade real de fazer com que eles desistam do conflito de vez. O MJ dirá o que você precisa fazer. Em uma falha, você sem querer acaba por destacar as diferenças entre eles e atiçar o conflito. Você não poderá usar esse movimento contra eles novamente.</p>"
 		},
 		"Call From Afar": {
-			"name": "Comunicação À Distância"
+			"name": "Comunicação À Distância",
+			"description": "<p>Quando você tentar contatar via mente ou espírito um PNJ que esteja distante, marque 1-fadiga e role com <span class=\"skill-name\">Harmonia</span>. Em um sucesso, sua mensagem é recebida, escolha 1. Em um 10+, ela é ouvida alta e clara: escolha 2.</p><ul><li>Você pede ajuda, o PNJ ouve e se apressa ao lugar onde você está</li><li>Você sussurra uma pergunta para o PNJ, ele sussurra uma resposta de volta</li><li>Você envia uma premonição de um perigo que está perseguindo seu alvo; ele se prepara para encarar o pior</li><li>Você envia ao seu alvo uma visão sua e ele envia de volta memórias e conhecimentos que se relacionem àquela visão</li></ul><p>Em uma falha, seu contato vai além do seu alvo original e você atrai atenção perigosa.</p>"
 		},
 		"Come and Get It": {
-			"name": "Mostre Do Que é Capaz"
+			"name": "Mostre Do Que é Capaz",
+			"description": "<p>Quando você <strong>enganar</strong> alguém ao provocar essa pessoa por meio das condições dela, role com o número de condições marcadas da pessoa ao invés de <span class=\"skill-name\">Creativity</span>.</p>"
 		},
 		"Cut the Garbage": {
-			"name": "Sem Baboseira"
+			"name": "Sem Baboseira",
+			"description": "<p>Quando confrontar alguém diretamente para obter a verdade, role com <span class=\"skill-name\">Harmonia</span>. Em um sucesso, pergunte 2; o personagem pode dizer o que quiser, mas o jogador deve responder honestamente. Em um 7-9 o jogador lhe faz uma pergunta e você também precisa responder honestamente.</p><ul><li>Você está dizendo a verdade?</li><li>O que você está sentido, de verdade?</li><li>O que você pretende fazer a seguir?</li><li>O que você realmente pensa a respeito de ___________?</li><li>Como eu poderia fazer com que você ___________?</li></ul><p>Em uma falha, a confrontação dá errado; ele inflige uma condição em você e faz uma pergunta da lista, que você deve responder honestamente.</p>"
 		},
 		"Destined GQ": {
 			"name": "Escolhido PdC",
@@ -49,24 +59,28 @@
 			"description": "O Destino pode ser algo frustrante, que exige que você se comprometa e o aceite ao mesmo tempo em que não dá informações claras sobre quando virá. Nesse instante, com sua alma em pleno equilíbrio, você percebe que esse é o momento que você esperava. Você mostra estar à altura do desafio, encorajando outros com seus dons espirituais únicos. Diga ao MJ como sua serenidade e força de vontade juntas ganham o dia e inspiram todos ao seu redor."
 		},
 		"Double Heritage": {
-			"name": "Dupla Linhagem"
+			"name": "Dupla Linhagem",
+			"description": "<p>Você descende de duas culturas diversas. Durante a criação do personagem, escolha dois treinamentos e dois antecedentes que representem suas duas linhagens. Você também começa o jogo com duas técnicas dominadas (incluindo sua técnica de manual) ao invés da usual uma técnica dominada.</p><h3>Sabedoria Vinda de Todo Lugar</h3><p>Você pode estudar com um mestre para aprender técnicas de  qualquer treinamento e adaptá-las para o seu. Quando você <strong>start começar a aprender uma técnica de um treinamento para o qual você não tenha um professor disposto</strong>, role acrescentando +1 para cada resposta “sim” para as seguintes perguntas:</p><ul><li>Sua Coesão atual é maior que zero?</li><li>Você já estudou essa técnica antes?</li><li>Alguém já usou essa técnica contra você numa batalha de verdade?</li></ul><p>Em um sucesso, você aprende a técnica. Mude seu equilíbrio rumo a Coesão. Em um 7-9, aprender foi uma tarefa árdua. Marque uma condição e escreva o nome dela perto da técnica. Você não conseguirá usar essa técnica se tiver essa condição marcada. Quando dominar essa técnica, apague o nome da condição dali.</p><p>Em uma falha, está sendo penoso incorporar esse aprendizado ao seu treinamento. Você precisará encontrar um novo mestre para continuar o treinamento.</p><h3>Laços Culturais</h3><p>Quando você <strong>tentar se conectar com um PNJ por meio de uma cultura compartilhada</strong>, role com Linhagem. Em um sucesso, ele enxerga você como igual. Mude seu equilíbrio rumo a Linhagem. Em um 7-9, escolha 1; em um 10+, escolha 2:</p><ul><li>Ele o aceita; o PNJ cessa as hostilidades ou antagonismo contra você.</li><li>Ele aprende a gostar de você (se já o aceitar); ele concorda em ajudá-lo com um problema.</li><li>Ele revela parte de sua história; você aprende o princípio dele.</li><li>Ele lhe oferece consolo; você remove uma condição.</li><li>Ele revela uma vulnerabilidade; você se torna Preparado para lidar com ele.</li></ul><p>Em uma falha, você confunde suas culturas de uma forma terrível. O PNJ zomba de você ou se ofende pela sua gafe. Marque uma condição e mude seu equilíbrio para longe de Linhagem</p>"
 		},
 		"Echoes of Legend": {
-			"name": "Ecos Lendários"
+			"name": "Ecos Lendários",
+			"description": "<p>Uma vez por sessão, quando você <strong>confiar nas suas habilidades e treinamento</strong> para agir da forma retratada num mito, lenda ou história famosa, trate esse movimento como se você tivesse rolado 10+. Não importa o resultado, o MJ muda seu equilíbrio rumo ao princípio que mais incorpora as histórias e aventuras nas quais você estiver se inspirando.</p>"
 		},
 		"Elder GQ": {
 			"name": "Ancião PdC",
 			"description": "O Ancião não tem uma pergunta de crescimento, nem ganha crescimento como os outros manuais. No lugar disso, o Ancião ganha avanços de crescimento conforme ajuda seus protegidos a alcançarem seu potencial e avançarem rumo a seus próprios princípios. Leia mais em Sabedoria das Eras do Ancião."
 		},
 		"Elder MoB": {
-			"name": "Ancião MdE"
+			"name": "Ancião MdE",
+			"description": "<p>Você sempre se verá ancorado no passado, incapaz de deixar para trás as lições dolorosas que aprendeu, mas agora pode usar tudo que essa experiência trouxe junto da humildade que a verdadeira sabedoria dá. Você encara a situação diante de seus olhos sem viés e é capaz de enxergar as verdades que se escondem além da superfície. Diga ao MJ como você remove tudo que oculta a verdade para que ninguém seja mais iludido ou veja as coisas como enxergavam antes.</p>"
 		},
 		"Empty Your Mind": {
 			"name": "Esvaziar a Mente",
 			"description": "Você pode fluir e se adaptar, sem forma e sem regras. Durante uma troca, após rolar o movimento de postura, você pode marcar fadiga para selecionar uma técnica básica de uma abordagem diferente da que escolheu. (Você ainda precisa pagar os outros custos da técnica)"
 		},
 		"Eyes of the Soul": {
-			"name": "Janelas da Alma"
+			"name": "Janelas da Alma",
+			"description": "<p>Quando você <strong>avaliar uma situação</strong>, você pode fazer uma das seguintes perguntas adicionais, mesmo numa falha:</p><ul><li>Quem ou o que aqui foi tocado por espíritos?</li><li>Como eu posso trazer paz a esse ambiente?</li></ul>"
 		},
 		"Feel the Flow": {
 			"name": "Sentir o Fluxo",
@@ -81,42 +95,56 @@
 			"description": "Você sempre teve dificuldades de encontrar uma união entre suas duas metades enquanto tenta honrar todas as tradições. O verdadeiro equilíbrio vem de saber que tudo é parte de algo maior. Uma cultura não pode existir sem a outra... especialmente dentro de você. Conte ao MJ como sua nova compreensão permite a você usar seus dois treinamentos para realizar algo impressionante ou derrotar um inimigo que parecia invencível."
 		},
 		"Frustrated": {
-			"name": "Frustrado"
+			"name": "Frustrado",
+			"description": "<p>-2 para <strong>tentar a sorte</strong> e +1 para <strong>intimidar</strong></p><p><strong>Para remover:</strong> estourar emocionalmente e descontar em alguém ou agir de forma decisiva sem consultar ninguém</p>",
+			"0": "Tentar sua Sorte",
+			"1": "Intimidar"
 		},
 		"I'm a People Person": {
-			"name": "Eu Entendo As Pessoas"
+			"name": "Eu Entendo As Pessoas",
+			"description": "<p>Quando você observar alguém interagir com outra pessoa, role com <span class=\"skill-name\">Foco</span>. Em um 7-9, faça uma pergunta. Em um 10+, faça 2. Ganhe +1 constante enquanto agir com base nas respostas.</p><ul><li>Você está mentindo nesse momento?</li><li>De que você tem mais medo?</li><li>Como você é mais vulnerável a mim?</li><li>Como eu posso fazer você marcar a condição __________?</li></ul><p>Em uma falha, você não consegue entender bem o alvo. Marque uma condição devido à frustração.</p>"
 		},
 		"Jaded": {
-			"name": "Calejado"
+			"name": "Calejado",
+			"description": "<p>-2 para <strong>pedir</strong> e +1 para <strong>enganar</strong></p><p><strong>Para remover:</strong> desistir ou se render diante de uma oposição relevante</p>",
+			"0": "Pedir",
+			"1": "Enganar"
 		},
 		"Life's True Delights": {
-			"name": "Os Verdadeiros Prazeres da Vida"
+			"name": "Os Verdadeiros Prazeres da Vida",
+			"description": "<p>Quando você buscar um momento legítimo de pausa e relaxamento, role com <span class=\"skill-name\">Harmonia</span>. Em um sucesso, mude seu equilíbrio como preferir. Em um 10+, você também percebe algo novo. Faça uma pergunta ao MJ e ele responderá honestamente. Em um 7-9, seu momento de relaxamento dá aos seus inimigos ou rivais uma oportunidade. O MJ dirá o que acontece. Em uma falha, você contempla o seu passado com resultados desastrosos. Diga ao MJ qual reminiscência de um antigo conflito estraga sua paz e muda seu equilíbrio  dois passos para longe do centro.</p>"
 		},
 		"Lure": {
 			"name": "Atrair",
 			"description": "Você atrai um oponente, deixando-o desnorteado. Escolha um oponente para atrair: se ele não tentar lhe infligir fadiga, condições, mudança de equilíbrio ou status negativos até o fim dessa troca, ele precisará marcar 2-fadiga. Se ele tentar lhe prejudicar nessa troca, você se tornará Favorecida para a próxima troca."
 		},
 		"Making Amends": {
-			"name": "Fazendo Reparações"
+			"name": "Fazendo Reparações",
+			"description": "<p>Você já foi a arma de figuras poderosas, seus mestres. Em seu período nessa função, você machucou pessoas, mesmo aquelas que a procuravam em busca de amizade, liderança, proteção ou apoio. Você precisa fazer reparações. Escolha quatro erros pelos quais você está tentando se redimir.</p><ul><li>Eu tentei subjugar ou dominar um grupo ou um lugar.</li><li>Eu traí uma pessoa ou grupo que confiou em mim num momento vital.</li><li>Eu destruí alguém que estava tentando me salvar dos meus mestres ou de mim mesma.</li><li>Eu entreguei um inocente nas mãos cruéis dos meus mestres.</li><li>Eu feri alguém gravemente em um acidente ou momento de fraqueza.</li><li>Eu treinei alguém mais nova que eu usando os mesmos métodos horríveis.</li></ul><p>Uma vez por sessão, <strong>quando fizer o seu melhor para provar que se tornou uma pessoa diferente e melhor por meio de suas ações</strong>, role adicionando +1 para cada “sim” que você responder às seguintes perguntas:</p><ul><li>Você buscou fazer reparações diretamente para a pessoa que prejudicou?</li><li>Você está no seu centro de equilíbrio?</li><li>Alguém lhe agradeceu honestamente pelos seus Alguém lhe agradeceu honestamente pelos seus</li></ul><p>Em um sucesso, você sente uma fagulha de esperança. Você está fazendo progresso. Em um 7-9, escolha 1. Em um 10+, escolha 2 (você pode escolher a mesma opção duas vezes), ou desbloqueie o próximo espaço de conexão na faixa de controle de equilíbrio (veja Desconectada).</p><ul><li>Remova uma condição</li><li>Marque crescimento</li><li>Mude seu equilíbrio rumo a Conexão</li></ul><p>Em uma falha, algo está errado. Você não sente que mudou. Escolha alguém nesse lugar que diga o que mais você pode fazer. A pessoa lhe dirá, e o MJ mudará seu equilíbrio duas vezes com base no que for dito.</p><h3>Desconectada</h3><p><strong>Seu Equilíbrio começa em +2 Controle</strong>; e você ainda pode ajustá-lo em um passo durante a criação da personagem.</p><p><strong>Seu princípio de Conexão se inicia travado.</strong>—. Você não pode mudar seu equilíbrio para um valor mais alto que +0 Conexão. Se algo fosse mudar seu equilíbrio para um valor travado, você perde seu equilíbrio. Seu centro nunca pode mudar para mais alto do que valor mais alto liberado de Conexão. Quando você desbloquear Conexão +3, trate sua faixa de marcação de equilíbrio como normal.</p><p>Quando você mudar seu centro para +1, +2 e +3 Conexão pela primeira vez, escolha um camarada a com quem você se conectou. A pessoa lhe concede um movimento do manual dela (ignorando os limites de avanço).</p><h3>Aprimorada</h3><p>Quando você <strong>sublimar seus sentimentos em prol da eficiência</strong>, remova condições num número igual a 1 + seu Controle e risque uma condição não marcada. Você não pode mais marcar essa condição por nenhuma razão. Quando você mudar seu centro rumo a Conexão, você pode recuperar o acesso a todas as condições riscadas.</p><p>Você pode <strong>assumir seu princípio de Controle</strong> ao mudar seu equilíbrio rumo a Controle ao invés de marcar fadiga.</p>"
 		},
 		"Marked By Fate": {
-			"name": "Marcado Pelo Destino"
+			"name": "Marcado Pelo Destino",
+			"description": "<p>Você foi tocado por algo vindo do além: algo espiritual ou de outro mundo. Durante a criação do personagem, escolha uma opção de <strong>Meu Destino,</strong> preencha um dos detalhes abaixo e marque um sinal do destino.</p><h3>Meu Destino</h3><ul><li>Meu semblante foi marcado por um grande Espírito; eu assumirei o seu papel</li><li><p>Minha mente armazena conhecimento e habilidades perdidas; eu vou reviver uma antiga e digna tradição</p></li><li>Meu corpo exibe um mapa das estrelas; eu construirei um caminho para um lugar fantástico</li><li>Meu coração está em sintonia com a dor da natureza; eu ajudarei a curar uma grande ferida no mundo</li></ul><h3>Detalhes do Destino</h3><p>Preencha conforme seu destino for revelado para você, seja por meio de visões ou sinais ou através de PNJs conectados à espiritualidade. Quando você agir de forma a destacar um desses detalhes, você <strong>poderá assumir sua Determinação </strong>sem marcar fadiga. Quando você e o MJ concordarem que um desses detalhes foi totalmente explorado ou concretizado, marque crescimento.</p><ul><li>Eu trarei grande mudança para ________</li><li>Eu serei traído por ___________</li><li>Eu perderei ___________</li><li>Eu precisarei da ajuda de ___________</li><li>Eu aprenderei uma verdade crucial de ___________</li><li>Eu defenderei ou salvarei ___________</li></ul><h3>Faixa de Destino [ ] [ ] [ ] [ ] [ ]</h3><p>Quando você perder o equilíbrio, for incapacitado ou se o MJ disser para fazê-lo, marque sua Faixa de Destino. Quando sua faixa de marcação de destino estiver cheia, remova as marcações e adquira um sinal do destino. Se você já tiver escolhido os outros quatro, precisará escolher “enfrente seu destino.”</p><h3>Destiny Signs</h3><ul><li><strong>Visões de Outro Mundo:</strong> Marque sua faixa de destino para obter uma visão sobre a situação atual. Faça uma pergunta ao MJ e receba uma resposta honesta.</li><li><strong>Trema Diante de Mim:</strong> Marque sua faixa de destino e revele um vislumbre de seu aspecto sobrenatural para intimidar um PNJ como se você tivesse rolado um 10+ em intimidar. Desse ponto em diante, o medo e desconfiança que esse PNJ sentirá de você serão imensuráveis. Você não poderá <strong>pedir para </strong>ou<strong> confortar e guiar </strong>esse PNJ até que tenha ganhado sua confiança.</li><li><strong>Autossacrifício:</strong> Uma vez por cena, marque sua faixa de destino para absorver de forma sobrenatural um golpe que estava mirando um aliado que você possa ver. Cancele toda a fadiga,  condições e mudanças de equilíbrio que seriam infligidas.</li><li><strong>Força Interior:</strong> Uma vez por sessão, marque destino duas vezes para remover todas as condições.</li><li><strong>Enfrente Seu Destino:</strong> Seu Destino se manifesta e você é mudado por ele de forma inegável. Se você sobreviver mantendo sua forma humana, troque de manual.</li></ul>"
 		},
 		"Martial Sensitive": {
-			"name": "Sensibilidade Marcial"
+			"name": "Sensibilidade Marcial",
+			"description": "<p>Você é bom em captar as intenções e gestos das pessoas no calor da batalha. Quando você <strong>defender e manobrar</strong> contra um oponente cujo princípio você conheça, marque fadiga para rolar com <span class=\"skill-name\">Harmonia</span> ao invés de <span class=\"skill-name\">Foco</span>.</p>"
 		},
 		"Mind of Steel": {
-			"name": "Mente de Aço"
+			"name": "Mente de Aço",
+			"description": "<p>Quando você <strong>avançar e atacar</strong> ou <strong>evadir e observar</strong> e tiver menos condições marcadas que o seu princípio mais alto, você pode rolar com <span class=\"skill-name\">Focus</span> ao invés da capacidade normal.</p>"
 		},
 		"More Than Fate's Plaything": {
-			"name": "Mais Que Joguetes Do Destino"
+			"name": "Mais Que Joguetes Do Destino",
+			"description": "<p>Quando você <strong>criticar alguem</strong> para assumir seu princípio ao convencer essa pessoa de que o destino é (ou pode ser) diferente do que ela imaginava, em um sucesso, a pessoa precisa aceitar a crítica e assumir o princípio ou marcar duas condições. Em uma falha, as exigências da pessoa afetam você ainda mais. Marque duas condições ou aja como pedido.</p>"
 		},
 		"Patience": {
 			"name": "Paciência",
 			"description": "Você espera até o momento perfeito para agir. Marque 1-fadiga para ganhar Preparado e usar uma técnica de avançar e atacar, pagando todos os custos normalmente. Marque outra fadiga para permitir a um camarada engajado com aquele mesmo oponente usar uma técnica de avançar e atacar contra ele também, pagando os custos apropriados como sempre."
 		},
 		"Peacemaker": {
-			"name": "Emissário da Paz"
+			"name": "Emissário da Paz",
+			"description": "<p>Quando você caminhar tranquilamente em meio a um conflito encarniçado e <strong>pedir</strong> aos combatentes que parem, marque fadiga para fazer com que eles se importem com o que você diz e lhe deem ouvidos. Em uma falha, o conflito é muito mais intenso do que você imaginava e agora você se tornou alvo dos combatentes, então é bom se preparar.</p>"
 		},
 		"Razor GQ": {
 			"name": "Navalha PdC",
@@ -127,10 +155,16 @@
 			"description": "Você foi ensinada que é preciso se controlar, e que se revelar, se conectar, é perder o controle. Agora, você percebe que se conectar não é uma fraqueza, é uma escolha, uma forma de se controlar. Você toma isso para si, escolhendo criar conexões com os outros e se propelir a alturas que achava impossíveis. Conte ao MJ como você salva aqueles com os quais se importa de uma ameaça ou problema tremendamente aterrorizantes."
 		},
 		"Remorseful": {
-			"name": "Arrependido"
+			"name": "Arrependido",
+			"description": "<p>-2 para o movimento de postura e +1 para <strong>criticar alguém</strong></p><p><strong>Para remover:</strong> tentar se redimir de forma legítima por erros do passado</p>",
+			"0": "Movimento de Postura",
+			"1": "Criticar Alguém"
 		},
 		"Shaken": {
-			"name": "Abalado"
+			"name": "Abalado",
+			"description": "<p>-2 para <strong>guiar e confortar</strong> e +1 para <strong>avaliar uma situação</strong></p><p><strong>Para remover:</strong> procure conforto de um antigo amigo ou mentor</p>",
+			"0": "Guiar e Confortar",
+			"1": "Avaliar uma Situação"
 		},
 		"The Destined": {
 			"name": "O Escolhido",
@@ -153,20 +187,26 @@
 			"bottomTrack": "Conexão"
 		},
 		"Things in Common": {
-			"name": "Coisas em Comum"
+			"name": "Coisas em Comum",
+			"description": "<p>Quando você <strong>guiar e confortar</strong> alguém que compartilha um treinamento ou antecedente com você por meio de uma conversa sobre o que vocês têm em comum, em um sucesso você se torna Inspirado. Se a pessoa aceitar seu acolhimento e orientação, ela também fica Inspirada.</p>"
 		},
 		"Trusty Talisman": {
-			"name": "Talismã de Estimação"
+			"name": "Talismã de Estimação",
+			"description": "<p>Você tem uma arma, ferramenta ou item que você acredita ser essencial para seu treinamento e habilidades. Você pode rolar com <span class=\"skill-name\">Harmonia</span> ao invés de <span class=\"skill-name\">Focus</span> quando usar esse item para <strong>confiar em suas habilidades e treinamento</strong>. Se você rolar uma falha, o item será danificado, além de quaisquer outras consequências da falha no movimento, e precisará de reparos. Se o item for danificado novamente antes de ter sido reparado, ele será destruído. Você se torna Atrapalhado sem esse item, até que alguém ajude você a superar a perda. Escolha um novo movimento para substituir este quando você superar essa perda.</p>"
 		},
 		"Winning is Everything": {
 			"name": "Vencer é o Que Importa",
 			"description": "Quando você escolher jogar sujo — atacar um inocente que seu oponente esteja tentando proteger, jogar areia nos olhos, etc. — no começo de uma troca de combate, ao invés de usar uma das abordagens padrão diga o que você faz e use um 10+ ao invés de rolar o movimento de postura. Você se torna Favorecida durante essa troca e pode escolher suas técnicas de qualquer abordagem. No fim da troca, o oponente pode apontar seu comportamento desonrado e sua falta de integridade para mudar seu equilíbrio duas vezes."
 		},
 		"Wisdom of the Ages": {
-			"name": "Sabedoria das Eras"
+			"name": "Sabedoria das Eras",
+			"description": "<p>Você viveu por mais tempo que os outros camaradas, tempo o  bastante para ter aprimorado seu treinamento diversas vezes. E, talvez, também tempo o bastante para saber que ainda tem muito a aprender.</p><p>Além da sua técnica normal do manual, você começa com outras quatro técnicas dominadas. Você não precisa escolher essas técnicas durante a criação do personagem; pode escolher quando quiser, mesmo no meio de uma troca de combate. Você pode treinar outros PJs nas suas técnicas dominadas usando o movimento padrão de treinamento.</p><p>Até que libere espaço para uma nova técnica, não poderá aprender novas técnicas. Quando mudar seu centro para +1, +2 ou +3 Humildade pela primeira vez, você libera um novo espaço; você pode aprender e aprimorar uma nova técnica para preencher esse espaço normalmente.</p><p>Você não ganha crescimento. Quando um PJ aceitar que você o guie e conforte, você pode mudar rumo a Experiência para declará-lo seu protegido, escrevendo seu nome e um de seus princípios abaixo. Quando esse PJ mudar seu centro rumo a esse princípio, remova o nome dele e ganhe um avanço. Você pode adicionar o mesmo PJ à lista novamente do mesmo jeito que da primeira vez.</p><h4>Protegidos</h4><ul><li>...</li></ul><h4>Suas condições</h4><p>Você tem condições diferentes dos outros manuais, as quais dão bônus além de penalidades. Você não pode adquirir movimentos de outros manuais que referenciem condições que você não tem.</p>"
 		},
 		"Worried": {
-			"name": "Preocupado"
+			"name": "Preocupado",
+			"description": "<p>-2 para <strong>negar uma critica</strong> e +1 para <strong>confiar nas suas habilidades e treinamento</strong></p><p><strong>Para remover:</strong> tome controle em uma situação que outro deveria liderar</p>",
+			"0": "Negar uma Critica",
+			"1": "Confiar nas suas Habilidades e Treinamento"
 		}
 	}
 }
