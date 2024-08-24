@@ -36,12 +36,12 @@
         "drive": "Motivação",
         "technique": "Tecnica",
         "levels": {
-          "minor": "NPC menor",
-          "major": "NPC maior",
-          "master": "NPC Mestre",
-          "legendary": "NPC lendário",
-          "group": "Grupo de NPCs",
-          "npc": "NPC"
+          "minor": "PNJ menor",
+          "major": "PNJ maior",
+          "master": "PNJ Mestre",
+          "legendary": "PNJ Lendário",
+          "group": "Grupo de PNJs",
+          "npc": "PNJ"
         },
         "fatigue": {
           "add": "Aumentar Fadiga máxima",
@@ -254,7 +254,7 @@
   "TYPES": {
     "Actor": {
       "campaign": "Campanha",
-      "npc": "NPC",
+      "npc": "PNJ",
       "player": "Jogador"
     },
     "Item": {
