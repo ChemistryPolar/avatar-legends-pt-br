@@ -1,17 +1,43 @@
 {
 	"label": "Apoio",
 	"mapping": {
-		"text": "pages.description"
 	},
 	"entries": {
 		"GM Reference": {
-			"name": "Apoio Para MJ"
+			"name": "Apoio Para MJ",
+			"description": ""
 		},
 		"Playbooks": {
 			"name": "Manuais"
 		},
 		"Player Reference": {
-			"name": "Apoio para Jogadores"
+			"name": "Apoio para Jogadores",
+			"pages": {
+				"Basic Moves": {
+					"name": "Movimentos Basicos",
+					"text": "<p>@InlineMove[Compendium.legends.common-items.OUstky04TpCjlspq]{Avaliar uma Situação}</p><p>@InlineMove[Compendium.legends.common-items.Huk8X5WKZBYdRLIa]{Guiar e Confortar}</p><p>@InlineMove[Compendium.legends.common-items.WPY7DVr55NaiTvYT]{Ajudar}</p><p>@InlineMove[Compendium.legends.common-items.XphTYECNhp1Sz4m9]{Intimidar}</p><p>@InlineMove[Compendium.legends.common-items.mKzsnhcvq4e3Or89]{Pedir}</p><p>@InlineMove[Compendium.legends.common-items.h3ttpfOq1i5dnmVK]{Tentar Sua Sorte}</p><p>@InlineMove[Compendium.legends.common-items.9h9kvKB1bANaWLG3]{Confiar nas suas Habilidades e Treinamento}</p><p>@InlineMove[Compendium.legends.common-items.4ozSlpzwC0C48iP3]{Enganar}</p>"
+				},
+				"Growth & Training": {
+					"name": "Crescimento e Treinamento",
+					"text": "<h2>Crescimento</h2><p>No final de cada sessão, cada jogador responde as seguintes perguntas:</p><ul><li>Você aprendeu algo empolgante, desafiador ou complicado sobre o mundo?</li><li>Você impediu uma grande ameaça ou resolveu um problema da comunidade?</li><li>Você ajudou a guiar um camarada para o equilíbrio ou terminou a sessão em seu centro de equilíbrio?</li></ul><p>Cada jogador tambem responde a pergunta de seu manual, a cada sim marque um crescimento. A cada quatro crecimentos, marque um Avanço de Crescimento</p><h2>Treinamento</h2><p>@InlineMove[Compendium.legends.common-items.usOvpsPvTrJSOEyc]{Movimento de Treinamento}</p>"
+				},
+				"Conditions": {
+					"name": "Condições",
+					"text": "<p>@InlineMove[Compendium.legends.common-items.PBp5wH8gd0HWgg6S]{Amedrontado}</p><p>@InlineMove[Compendium.legends.common-items.IC7W4GUk2eOnsDL2]{Enraivecido}</p><p>@InlineMove[Compendium.legends.common-items.xEuxcgaQlDN79NcA]{Culpado}</p><p>@InlineMove[Compendium.legends.common-items.me913HCTuhzRPYaK]{Inseguro}</p><p>@InlineMove[Compendium.legends.common-items.xFTuciNqeVx5k6Jz]{Perturbado}</p>"
+			},
+				"Combat Exchanges":{
+					"name": "Combat Exchanges",
+					"text": ""
+				},
+				"Statuses": {
+					"name": "Statuses",
+					"text": ""
+				},
+				"Balance Moves": {
+					"name": "Movimentos de Equilibrio",
+					"text": "<p>@InlineMove[Compendium.legends.common-items.Z4M6AWEvXg5HCXOF]{Criticar Alguém}</p><p>@InlineMove[Compendium.legends.common-items.mzcw6nsnb327PxYb]{Negar uma Crítica}</p><p>@InlineMove[Compendium.legends.common-items.Zu9KlI5V6bQlXNXc]{Assumir seus Princípios}</p><p>@InlineMove[Compendium.legends.common-items.cae40xdVKrJtMaMh]{Perder seu Equiibrio}</p><p>@InlineMove[Compendium.legends.common-items.tf5VQnIsNFxPNIdV]{Resistir uma Mudança de Equilibrio}</p>"
+				}
+			}
 		},
 		"WSTAG Playbooks": {
 			"name": "Manuais WSTAG"
