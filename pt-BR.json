@@ -154,8 +154,8 @@
         "learned": "A",
         "practice": "Marcar Praticada",
         "practiced": "P",
-        "master": "Marcar Masterizada",
-        "mastered": "M"
+        "master": "Marcar Dominada",
+        "mastered": "D"
       },
       "add": "Nova Tecnica",
       "none": "Nenhuma Tecnica foi adicionada. Arraste da sidebar de Itens ou Compendium."
@@ -203,7 +203,7 @@
     },
     "roll": {
       "with": "Role com <a class=\"fire-dark approach-roll\" data-approach=\"{approach}\" data-stat=\"{stat}\"><i class=\"fas fa-dice small\"></i> {name}</a>",
-      "evade-observe": "Remova 1 de Fadiga &amp; Role com <a class=\"fire-dark approach-roll\" data-approach=\"Esquiver & Observer\" data-stat=\"creativity\"></i> Criatividade</a> or <a class=\"fire-dark approach-roll\" data-approach=\"Esquiver & Observer\" data-stat=\"harmony\"><i class=\"fas fa-dice small\"></i> Harmonia</a>",
+      "evade-observe": "Remova 1 de Fadiga &amp; Role com <a class=\"fire-dark approach-roll\" data-approach=\"Evadir e Observar\" data-stat=\"creativity\"></i> Criatividade</a> or <a class=\"fire-dark approach-roll\" data-approach=\"Evadir e Observar\" data-stat=\"harmony\"><i class=\"fas fa-dice small\"></i> Harmonia</a>",
       "stat": "Rolando {stat}",
       "no-stat": "Rolando",
       "miss": "Fracasso",
