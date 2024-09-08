@@ -218,8 +218,8 @@
       },
       "no-actor": "Você não pode fazer uma Rolagem sem um ator designado.",
       "approach": {
-        "full": "<p>Escolha um da lista:</p><ul><li>Marque 1 de Fadiga para usar uma Tecnica Aprendida</li><li>Use uma Tecnica Praticada</li><li>Use duas diferentes tecnicas Basicas ou Masterizadas</li></ul>",
-        "hit": "<p>Use uma  Tecnica Básica ou Masterizada</p>",
+        "full": "<p>Escolha um da lista:</p><ul><li>Marque 1 de Fadiga para usar uma Tecnica Aprendida</li><li>Use uma Tecnica Praticada</li><li>Use duas diferentes tecnicas Basicas ou Dominadas</li></ul>",
+        "hit": "<p>Use uma  Tecnica Básica ou Dominada</p>",
         "miss": "<p>Você tropeça, mas pode mover seu Equilibrio para longe do centro para usar uma Tecnica Basica.</p>"
       }
     },
